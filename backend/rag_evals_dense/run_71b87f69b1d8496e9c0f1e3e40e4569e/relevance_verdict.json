@@ -1,0 +1,182 @@
+{
+  "ebe25a27-9ce4-489f-bf9c-850c513f5f79": {
+    "chunk_id": "ebe25a27-9ce4-489f-bf9c-850c513f5f79",
+    "is_relevant": false,
+    "reason": "Mentions Price Club and its predecessors (FedMart, Fedco) leading to Costco, but does not mention the hardware store created as the price club of hardware stores.",
+    "score": 2
+  },
+  "5c9998cf-a427-4ee1-a48b-b7f1b9a506e8": {
+    "chunk_id": "5c9998cf-a427-4ee1-a48b-b7f1b9a506e8",
+    "is_relevant": true,
+    "reason": "Discusses Bernie Marcus and Home Depot in the context of Sol Price and Price Club, though the direct quote is in another chunk.",
+    "score": 3
+  },
+  "d0212c90-b71f-4b1f-b42d-14d4a3d1331c": {
+    "chunk_id": "d0212c90-b71f-4b1f-b42d-14d4a3d1331c",
+    "is_relevant": false,
+    "reason": "Discusses Ann & Hope and FedMart, but not the hardware store reference.",
+    "score": 2
+  },
+  "dc432ad0-8dbb-4493-8728-96532c66841b": {
+    "chunk_id": "dc432ad0-8dbb-4493-8728-96532c66841b",
+    "is_relevant": false,
+    "reason": "Discusses Price Club going public and cash flow dynamics, not hardware stores.",
+    "score": 2
+  },
+  "8b153fac-bfe7-4278-a8e4-a3c70ff5ecda": {
+    "chunk_id": "8b153fac-bfe7-4278-a8e4-a3c70ff5ecda",
+    "is_relevant": false,
+    "reason": "Discusses FedMart and gasoline lines, not hardware stores.",
+    "score": 2
+  },
+  "97fd90a4-728d-489c-9560-4fcad5385907": {
+    "chunk_id": "97fd90a4-728d-489c-9560-4fcad5385907",
+    "is_relevant": false,
+    "reason": "Discusses the history of Costco, FedMart, and Price Club, but not hardware stores.",
+    "score": 2
+  },
+  "6159fd02-1f3d-4584-a46d-9a98c32c02e9": {
+    "chunk_id": "6159fd02-1f3d-4584-a46d-9a98c32c02e9",
+    "is_relevant": false,
+    "reason": "Discusses footwear and retail margins, completely irrelevant.",
+    "score": 1
+  },
+  "e1330d08-b183-41da-99cb-ade866ef4ca9": {
+    "chunk_id": "e1330d08-b183-41da-99cb-ade866ef4ca9",
+    "is_relevant": false,
+    "reason": "Discusses Costco and Price Club merger and Sol Price, but not hardware stores.",
+    "score": 2
+  },
+  "d9f0083c-5b75-4515-9abc-d5b71f2e5fa3": {
+    "chunk_id": "d9f0083c-5b75-4515-9abc-d5b71f2e5fa3",
+    "is_relevant": true,
+    "reason": "Explicitly states that Sol Price told Bernie Marcus to 'take the Price Club playbook, go kick their butt and open the Price Club of hardware stores. Bernie Marcus, of course, then goes home, turns around, and starts Home Depot.'",
+    "score": 5
+  },
+  "f2ee02a9-e2c5-4d19-9daa-847345897fcf": {
+    "chunk_id": "f2ee02a9-e2c5-4d19-9daa-847345897fcf",
+    "is_relevant": false,
+    "reason": "Discusses Costco's treasure hunt shopping experience and SKUs, not hardware stores.",
+    "score": 2
+  },
+  "8c8a4619-8b18-44ee-8671-c1600e89fda5": {
+    "chunk_id": "8c8a4619-8b18-44ee-8671-c1600e89fda5",
+    "is_relevant": false,
+    "reason": "Discusses Kmart, Walmart, Woolco, and Target starting in 1962.",
+    "score": 2
+  },
+  "f439948b-5d61-4fce-8f26-02fc72b428f8": {
+    "chunk_id": "f439948b-5d61-4fce-8f26-02fc72b428f8",
+    "is_relevant": false,
+    "reason": "Discusses European retail concepts and Carrefour, leading to Price Club.",
+    "score": 2
+  },
+  "2209053b-319f-4213-9f57-7ad6147425cf": {
+    "chunk_id": "2209053b-319f-4213-9f57-7ad6147425cf",
+    "is_relevant": false,
+    "reason": "Discusses Seattle retailers (Bernie and Jeff) asking to open a Price Club franchise, which leads to Costco, not hardware stores.",
+    "score": 2
+  },
+  "9b3b6183-0e43-4263-a69e-2654b0b6bc0d": {
+    "chunk_id": "9b3b6183-0e43-4263-a69e-2654b0b6bc0d",
+    "is_relevant": false,
+    "reason": "Discusses the origin story of Diners Club, completely irrelevant.",
+    "score": 1
+  },
+  "78321561-a0ef-48ac-a051-1161a411253f": {
+    "chunk_id": "78321561-a0ef-48ac-a051-1161a411253f",
+    "is_relevant": false,
+    "reason": "Discusses early 5\u00a2 and 10\u00a2 stores and non-self-service retail, irrelevant.",
+    "score": 1
+  },
+  "f6e08e4e-8e9a-4e3e-9b47-b6028cad3661": {
+    "chunk_id": "f6e08e4e-8e9a-4e3e-9b47-b6028cad3661",
+    "is_relevant": false,
+    "reason": "Discusses the origin of Fedco for federal employees.",
+    "score": 2
+  },
+  "741d6660-6eaa-4ab1-8660-453be150ffe6": {
+    "chunk_id": "741d6660-6eaa-4ab1-8660-453be150ffe6",
+    "is_relevant": false,
+    "reason": "Discusses the founding of Walmart and Sam Walton, unrelated to the question about Home Depot or price club of hardware stores.",
+    "score": 1
+  },
+  "ab16e28e-87ff-4841-84f5-f60e1f05f0fe": {
+    "chunk_id": "ab16e28e-87ff-4841-84f5-f60e1f05f0fe",
+    "is_relevant": false,
+    "reason": "Discusses James Cash Penney and Sol Price / Price Club, but does not mention Home Depot.",
+    "score": 1
+  },
+  "42eac8ab-95d4-455b-bbde-6f5bf1aad4fa": {
+    "chunk_id": "42eac8ab-95d4-455b-bbde-6f5bf1aad4fa",
+    "is_relevant": false,
+    "reason": "Discusses Costco and Price Club expansion, unrelated to Home Depot.",
+    "score": 1
+  },
+  "b95f9bac-4570-4c19-aef6-1b891ef26be7": {
+    "chunk_id": "b95f9bac-4570-4c19-aef6-1b891ef26be7",
+    "is_relevant": false,
+    "reason": "Discusses Price Club going public, unrelated to Home Depot.",
+    "score": 1
+  },
+  "5b10c589-bfe7-4e2b-aab6-35061f638485": {
+    "chunk_id": "5b10c589-bfe7-4e2b-aab6-35061f638485",
+    "is_relevant": false,
+    "reason": "Discusses Sol Price, Costco, and Sam's Club, but does not mention Home Depot.",
+    "score": 1
+  },
+  "fcae1887-b75b-44e4-9443-361bacf4c4f2": {
+    "chunk_id": "fcae1887-b75b-44e4-9443-361bacf4c4f2",
+    "is_relevant": false,
+    "reason": "Discusses Kinect Group and LodgeNet, completely irrelevant to the question.",
+    "score": 1
+  },
+  "e42ac33a-db3f-42fc-aabd-6f5969e29fba": {
+    "chunk_id": "e42ac33a-db3f-42fc-aabd-6f5969e29fba",
+    "is_relevant": false,
+    "reason": "Discusses Jim Sinegal, FedMart, and Price Club, but does not mention Home Depot.",
+    "score": 1
+  },
+  "b930c82f-e681-416b-9293-723b2cdf7e8c": {
+    "chunk_id": "b930c82f-e681-416b-9293-723b2cdf7e8c",
+    "is_relevant": false,
+    "reason": "Discusses logistics of Price Club and Costco, unrelated to Home Depot.",
+    "score": 1
+  },
+  "4786f364-9c6d-4c51-b2b8-332695881157": {
+    "chunk_id": "4786f364-9c6d-4c51-b2b8-332695881157",
+    "is_relevant": false,
+    "reason": "Discusses a Sol Price and Costco tire center story, unrelated to Home Depot.",
+    "score": 1
+  },
+  "fb694592-b524-4597-9dff-def81b3b3521": {
+    "chunk_id": "fb694592-b524-4597-9dff-def81b3b3521",
+    "is_relevant": false,
+    "reason": "Discusses the business model of warehouses for small businesses by Sol Price, unrelated to Home Depot.",
+    "score": 1
+  },
+  "4d7e48eb-8002-4dce-95ee-fb4121542d3e": {
+    "chunk_id": "4d7e48eb-8002-4dce-95ee-fb4121542d3e",
+    "is_relevant": false,
+    "reason": "Discusses Sol Price inventing the discounter, unrelated to Home Depot.",
+    "score": 1
+  },
+  "d0dd854e-b707-40f4-9ae0-5b5a525652e7": {
+    "chunk_id": "d0dd854e-b707-40f4-9ae0-5b5a525652e7",
+    "is_relevant": false,
+    "reason": "Discusses Walmart's early history and technology adoption, unrelated to Home Depot.",
+    "score": 1
+  },
+  "3888d929-cbae-4e04-8845-665e1258b7cb": {
+    "chunk_id": "3888d929-cbae-4e04-8845-665e1258b7cb",
+    "is_relevant": false,
+    "reason": "Discusses Price Club membership model and hiring Giles Bateman, unrelated to Home Depot.",
+    "score": 1
+  },
+  "6086d028-85e1-43db-9749-5226d8551987": {
+    "chunk_id": "6086d028-85e1-43db-9749-5226d8551987",
+    "is_relevant": false,
+    "reason": "Discusses department store vendor arrangements, unrelated to Home Depot.",
+    "score": 1
+  }
+}

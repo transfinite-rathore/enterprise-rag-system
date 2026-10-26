@@ -53,17 +53,17 @@ def create_rag_orchestrator() -> Tuple[VectorStoreInterface,RAGOrchestrator]:
     # VSFactory(client).create_vector_store()
     vector_store = VSFactory(client).create_vector_store()
 
-    search_strategy = HybridSearchRule() #DenseSearchRule()
+    search_strategy =  DenseSearchRule() #HybridSearchRule()
 
     retriever = Retriever(
         vs=vector_store,
         searching_rule=search_strategy,
         collection_name=config["collection_name"],
-        top_k=30
+        top_k=get_config()["reteriver"]["reterived_chunks_count"]
     )
 
     reranking_strategy = CrossEncoderReranker(get_config()["paths"]["cross_encoder_path"])
-    reranker = Reranker(reranking_strategy,top_k=5)
+    reranker = Reranker(reranking_strategy,top_k=get_config()["reteriver"]["reranked_chunks_count"])
     validator=QueryValidator([EmptyQueryValidator(),PrintableCharacterValidator()])
     corrector=QueryCorrecter([TrimWhitespaceRule(),CollapseSpacesRule(),RemoveRepeatedPunctuationRule()])
     rewriter=LLMQueryRewriter(llm_model)
@@ -71,7 +71,7 @@ def create_rag_orchestrator() -> Tuple[VectorStoreInterface,RAGOrchestrator]:
 
     answer_generator = AnswerGenerator(llm_model,LLMResponse)
 
-    result_store = RAGFileResultStore()
+    result_store = RAGFileResultStore(get_config()["reteriver"]["file_store_dir"])
     
     return (vector_store,RAGOrchestrator(
         query_processor=query_pipeline,

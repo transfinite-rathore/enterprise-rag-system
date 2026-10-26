@@ -25,10 +25,6 @@ class AsyncQdrantVectorStore(AsyncVectorStoreInterface):
 
     async def collection_exists(self, collection_name: str) -> bool:
         exists = await self.client.collection_exists(collection_name)
-        if not exists:
-            logger.info("Collection Doesn't exist")
-        else:
-            logger.info("Collection Already Exists")
         return exists
 
     async def create_collection(self):
@@ -46,7 +42,7 @@ class AsyncQdrantVectorStore(AsyncVectorStoreInterface):
                     self.ingestion_config["sparse_vector_name"]: SparseVectorParams()
                 }
             )
-            logger.info("New Collection created!")
+
 
     async def save_documents(
         self,

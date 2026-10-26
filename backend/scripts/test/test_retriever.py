@@ -44,9 +44,9 @@ class RAGEvaluationRunner:
         self.vector_store, self.rag = create_rag_orchestrator()
 
         # Create stores only once
-        self.result_store = RAGFileResultStore(base_dir="rag_evals")
-        self.verdict_store = RelevanceVerdictFileSave(dir_path="rag_evals")
-        self.evaluation_store = EvaluationFileSave(dir_path="rag_evals")
+        self.result_store = RAGFileResultStore(base_dir=get_config()["reteriver"]["file_store_dir"])
+        self.verdict_store = RelevanceVerdictFileSave(dir_path=get_config()["reteriver"]["file_store_dir"])
+        self.evaluation_store = EvaluationFileSave(dir_path=get_config()["reteriver"]["file_store_dir"])
 
         # Create judge only once
         self.judge = create_LLM_judge()
@@ -76,19 +76,19 @@ class RAGEvaluationRunner:
     def _create_evaluator(self):
 
         retrieval_metrics = [
-            PrecisionAtK(),
-            RecallAtK(),
+            PrecisionAtK(get_config()["reteriver"]["reteriver_eval_top_k"]),
+            RecallAtK(get_config()["reteriver"]["reteriver_eval_top_k"]),
             MeanReciprocalRank(),
-            NDCGAtK(),
-            HitRate(),
+            NDCGAtK(get_config()["reteriver"]["reteriver_eval_top_k"]),
+            HitRate(get_config()["reteriver"]["reteriver_eval_top_k"]),
         ]
 
         reranker_metrics = [
-            PrecisionAtK(),
-            RecallAtK(),
+            PrecisionAtK(get_config()["reteriver"]["reranker_eval_top_k"]),
+            RecallAtK(get_config()["reteriver"]["reranker_eval_top_k"]),
             MeanReciprocalRank(),
-            NDCGAtK(),
-            HitRate(),
+            NDCGAtK(get_config()["reteriver"]["reranker_eval_top_k"]),
+            HitRate(get_config()["reteriver"]["reranker_eval_top_k"]),
         ]
 
         generation_metrics = [
@@ -204,7 +204,7 @@ async def run_eval():
 
             print("\n" + "=" * 70)
             print(f"Evaluation {i + 1}/5")
-            print(f"Query: {query}")
+            print(f"Query: {query}, human_ans: {human_answer}")
             print("=" * 70)
 
             await runner.evaluate(

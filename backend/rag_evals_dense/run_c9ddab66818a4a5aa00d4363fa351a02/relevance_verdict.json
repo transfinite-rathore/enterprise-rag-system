@@ -1,0 +1,182 @@
+{
+  "d363b515-b480-4757-8155-f1851fa78cd5": {
+    "chunk_id": "d363b515-b480-4757-8155-f1851fa78cd5",
+    "is_relevant": true,
+    "reason": "Explicitly states that Airbnb priced its IPO on December 9, 2020 at $68 a share, which directly matches the reference answer.",
+    "score": 5
+  },
+  "b3ff4e00-5ccc-429d-b5ec-cb6afe730dbc": {
+    "chunk_id": "b3ff4e00-5ccc-429d-b5ec-cb6afe730dbc",
+    "is_relevant": false,
+    "reason": "Discusses a different IPO (from March/April 2019) with a different price per share, not Airbnb.",
+    "score": 1
+  },
+  "fb6a4918-a28d-4642-bf09-f598d8fcd8a6": {
+    "chunk_id": "fb6a4918-a28d-4642-bf09-f598d8fcd8a6",
+    "is_relevant": false,
+    "reason": "Mentions Snowflake and Airbnb growth rates, but does not provide the IPO date or price per share.",
+    "score": 2
+  },
+  "c02aa939-f5dc-486a-bd11-b73f38a47d0b": {
+    "chunk_id": "c02aa939-f5dc-486a-bd11-b73f38a47d0b",
+    "is_relevant": false,
+    "reason": "Discusses speculation around Airbnb going public, but lacks the specific date and share price.",
+    "score": 2
+  },
+  "6f43070c-b872-4e7b-ad64-3294392520c5": {
+    "chunk_id": "6f43070c-b872-4e7b-ad64-3294392520c5",
+    "is_relevant": false,
+    "reason": "Discusses Facebook's IPO, not Airbnb.",
+    "score": 1
+  },
+  "3eb5db8a-530d-405f-a9f9-45516234da4a": {
+    "chunk_id": "3eb5db8a-530d-405f-a9f9-45516234da4a",
+    "is_relevant": false,
+    "reason": "Discusses stakeholder shares and liquidity leading up to the IPO, but not the date and price per share.",
+    "score": 2
+  },
+  "44617b3e-82a5-45c4-8628-d825752964fd": {
+    "chunk_id": "44617b3e-82a5-45c4-8628-d825752964fd",
+    "is_relevant": false,
+    "reason": "Discusses a completely different historical IPO from 1970.",
+    "score": 1
+  },
+  "27d14f51-7234-44d8-bfd2-433bc3ce7a95": {
+    "chunk_id": "27d14f51-7234-44d8-bfd2-433bc3ce7a95",
+    "is_relevant": true,
+    "reason": "Provides general context about Airbnb going public and raising over $3.5 billion, but misses the exact date and share price found in other chunks.",
+    "score": 3
+  },
+  "11ddd048-9655-47b2-8ed1-a92d6fc7b7c0": {
+    "chunk_id": "11ddd048-9655-47b2-8ed1-a92d6fc7b7c0",
+    "is_relevant": false,
+    "reason": "Discusses Facebook's IPO trading details.",
+    "score": 1
+  },
+  "195d27ac-98f9-431b-ab35-5dc5e92f1371": {
+    "chunk_id": "195d27ac-98f9-431b-ab35-5dc5e92f1371",
+    "is_relevant": false,
+    "reason": "Discusses Shopify's IPO.",
+    "score": 1
+  },
+  "c8dcc988-1485-490b-b88e-7a161a61cf7c": {
+    "chunk_id": "c8dcc988-1485-490b-b88e-7a161a61cf7c",
+    "is_relevant": false,
+    "reason": "Discusses Virgin Galactic (de-SPACing).",
+    "score": 1
+  },
+  "f5105f12-73e2-49de-b5d8-e7caada24a35": {
+    "chunk_id": "f5105f12-73e2-49de-b5d8-e7caada24a35",
+    "is_relevant": false,
+    "reason": "Discusses another tech company's IPO (likely DoorDash or similar), not Airbnb's specific details.",
+    "score": 2
+  },
+  "37a8bde1-6013-4446-94c6-15e31198f265": {
+    "chunk_id": "37a8bde1-6013-4446-94c6-15e31198f265",
+    "is_relevant": false,
+    "reason": "Mentions DoorDash and Airbnb IPOs happening around the same time, but lacks the specific date and share price.",
+    "score": 2
+  },
+  "bfbac0e6-b3cc-4f8d-9826-4d2e86648ebf": {
+    "chunk_id": "bfbac0e6-b3cc-4f8d-9826-4d2e86648ebf",
+    "is_relevant": false,
+    "reason": "Discusses DoorDash's IPO pricing details rather than Airbnb's.",
+    "score": 2
+  },
+  "2fe86ea4-a6ff-4317-817a-40cd4ce4ecac": {
+    "chunk_id": "2fe86ea4-a6ff-4317-817a-40cd4ce4ecac",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's history, management changes, and business model evolution, but not the IPO date or share price.",
+    "score": 2
+  },
+  "fbb40595-d938-4417-9ad5-533c3a431526": {
+    "chunk_id": "fbb40595-d938-4417-9ad5-533c3a431526",
+    "is_relevant": false,
+    "reason": "Discusses general IPO market mechanics (bankers supporting stock prices), not Airbnb's specific date or price.",
+    "score": 2
+  },
+  "ec3497e5-7a1c-4ccb-816f-f84edf1b5971": {
+    "chunk_id": "ec3497e5-7a1c-4ccb-816f-f84edf1b5971",
+    "is_relevant": false,
+    "reason": "Discusses DoorDash and Airbnb's gross order volume and cash flow in 2015, but contains no information about the IPO date or share price.",
+    "score": 1
+  },
+  "8bfd4846-0056-4f27-8bfb-cf4e745b4027": {
+    "chunk_id": "8bfd4846-0056-4f27-8bfb-cf4e745b4027",
+    "is_relevant": false,
+    "reason": "Mentions a first day of trading and market cap, but this chunk appears to be referring to DoorDash's IPO (mentioned in previous contexts) or lacks the specific Airbnb IPO date and share price matching the reference answer.",
+    "score": 2
+  },
+  "28091d3a-a389-4078-8db2-2eed080d76b2": {
+    "chunk_id": "28091d3a-a389-4078-8db2-2eed080d76b2",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's fundraising from Silver Lake and Sixth Street Partners in March 2020, not the IPO date or share price.",
+    "score": 1
+  },
+  "ba935444-b301-4993-a884-08407b59dd38": {
+    "chunk_id": "ba935444-b301-4993-a884-08407b59dd38",
+    "is_relevant": false,
+    "reason": "Mentions Airbnb filing its S1 on November 16, 2020, but does not provide the IPO date or the price per share.",
+    "score": 2
+  },
+  "49818e93-36f4-48de-b41b-2681ec42d8e3": {
+    "chunk_id": "49818e93-36f4-48de-b41b-2681ec42d8e3",
+    "is_relevant": false,
+    "reason": "Discusses an IPO on April 17th at $19 a share, which refers to a different company (likely Pinterest or another past episode subject), not Airbnb's IPO.",
+    "score": 1
+  },
+  "b1f670fc-a2b9-43e3-bc9d-671f814f687e": {
+    "chunk_id": "b1f670fc-a2b9-43e3-bc9d-671f814f687e",
+    "is_relevant": false,
+    "reason": "Discusses Uber's IPO in 2019, not Airbnb.",
+    "score": 1
+  },
+  "a2a0d54e-7742-4708-87c2-1bc2f5c70a2a": {
+    "chunk_id": "a2a0d54e-7742-4708-87c2-1bc2f5c70a2a",
+    "is_relevant": false,
+    "reason": "Mentions COVID impacting Airbnb in March 2020 and plans to go public, but does not state the IPO date or share price.",
+    "score": 1
+  },
+  "97c78216-f309-43dc-8e65-09de989d0a75": {
+    "chunk_id": "97c78216-f309-43dc-8e65-09de989d0a75",
+    "is_relevant": false,
+    "reason": "Mentions Airbnb IPOed in the last six months with an $85 billion market cap, but does not provide the exact IPO date or price per share.",
+    "score": 2
+  },
+  "5372c1c0-2aa0-4b54-ad5a-e16336ffeca3": {
+    "chunk_id": "5372c1c0-2aa0-4b54-ad5a-e16336ffeca3",
+    "is_relevant": false,
+    "reason": "Discusses Facebook's IPO and stock price movements, not Airbnb.",
+    "score": 1
+  },
+  "303bd6a5-a302-4f84-b4ea-98f3f4e34da6": {
+    "chunk_id": "303bd6a5-a302-4f84-b4ea-98f3f4e34da6",
+    "is_relevant": false,
+    "reason": "Discusses Virgin America's IPO, not Airbnb.",
+    "score": 1
+  },
+  "3f11c989-d7f8-4bd5-993d-86af24246255": {
+    "chunk_id": "3f11c989-d7f8-4bd5-993d-86af24246255",
+    "is_relevant": false,
+    "reason": "Mentions Airbnb is going to IPO before the end of the year, but lacks the specific date and share price.",
+    "score": 2
+  },
+  "81d6752f-55c5-43a0-abcd-514c7be45563": {
+    "chunk_id": "81d6752f-55c5-43a0-abcd-514c7be45563",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's 2019 income statement and revenue pre-pandemic, not the IPO date or share price.",
+    "score": 1
+  },
+  "034ad401-f20e-49fd-8df2-b6a915d8ba7a": {
+    "chunk_id": "034ad401-f20e-49fd-8df2-b6a915d8ba7a",
+    "is_relevant": false,
+    "reason": "Discusses Shopify and home counts on Airbnb, but not the IPO details.",
+    "score": 1
+  },
+  "483d7652-2b04-4a88-beb7-301a5c76a409": {
+    "chunk_id": "483d7652-2b04-4a88-beb7-301a5c76a409",
+    "is_relevant": false,
+    "reason": "General discussion of portfolio companies and Airbnb's business model in 2014, not the IPO date or share price.",
+    "score": 1
+  }
+}

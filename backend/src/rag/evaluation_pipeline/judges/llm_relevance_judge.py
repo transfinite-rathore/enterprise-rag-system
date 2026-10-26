@@ -27,6 +27,15 @@ class LLMRelevanceJudge(RelevanceJudge):
         
         # 3. Parse and store in Pydantic models
         try:
+            if isinstance(response_text, list):
+                response_text = "".join(
+                    block.get("text", "") for block in response_text if isinstance(block, dict) and block.get("type") == "text"
+                )
+            elif not isinstance(response_text, str):
+                response_text = str(response_text)
+                
+            response_text = response_text.replace("```json", "").replace("```", "").strip()
+            
             parsed_data = json.loads(response_text)
             
             for item in parsed_data:

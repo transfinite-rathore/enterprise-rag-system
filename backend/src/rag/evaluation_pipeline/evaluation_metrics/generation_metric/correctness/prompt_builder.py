@@ -8,5 +8,5 @@ class CorrectnessPromptBuilder(IPromptBuilder):
         query=payload.query
         expected_response=payload.expected_answer
         generated_answer=payload.response_result["answer"]
-        
+        print(f"query {query}, expected_response {expected_response}, generated_answer {generated_answer}")
         return prompt.format(query=query,human_answer=expected_response,generated_answer=generated_answer)

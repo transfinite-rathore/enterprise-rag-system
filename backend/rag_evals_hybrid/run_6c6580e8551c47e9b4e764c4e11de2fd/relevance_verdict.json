@@ -1,0 +1,182 @@
+{
+  "8bcb734e-864a-40bb-9c28-7d028a1f9603": {
+    "chunk_id": "8bcb734e-864a-40bb-9c28-7d028a1f9603",
+    "is_relevant": false,
+    "reason": "Discusses network economies and two-sided network effects for Airbnb, but does not mention market fragmentation or airlines.",
+    "score": 2
+  },
+  "4582311f-3976-4556-8097-b22f7f78529d": {
+    "chunk_id": "4582311f-3976-4556-8097-b22f7f78529d",
+    "is_relevant": false,
+    "reason": "Discusses marketplaces and value extraction, unrelated to market fragmentation and airlines.",
+    "score": 1
+  },
+  "9c30428b-b07e-4cc1-b72c-b2891513d078": {
+    "chunk_id": "9c30428b-b07e-4cc1-b72c-b2891513d078",
+    "is_relevant": false,
+    "reason": "Discusses network effects for Airbnb regarding choices and density, but does not discuss market fragmentation or the airline industry.",
+    "score": 2
+  },
+  "01c0cfbe-dcbe-43ab-b412-33381e60890f": {
+    "chunk_id": "01c0cfbe-dcbe-43ab-b412-33381e60890f",
+    "is_relevant": false,
+    "reason": "Discusses airline consolidation, but does not address market fragmentation or why it doesn't work for Airbnb.",
+    "score": 2
+  },
+  "a0630e7c-8062-4c01-9261-7aecb641b4a9": {
+    "chunk_id": "a0630e7c-8062-4c01-9261-7aecb641b4a9",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's global dual-sided network effects, but lacks details on market fragmentation and airlines.",
+    "score": 2
+  },
+  "de57ab21-d056-44d8-acf5-e0d9d18be171": {
+    "chunk_id": "de57ab21-d056-44d8-acf5-e0d9d18be171",
+    "is_relevant": false,
+    "reason": "Discusses cohort revenue and reviews for Airbnb, unrelated to the prompt.",
+    "score": 1
+  },
+  "c78063f8-c6bf-49ad-b5c3-acd53eff1f1d": {
+    "chunk_id": "c78063f8-c6bf-49ad-b5c3-acd53eff1f1d",
+    "is_relevant": false,
+    "reason": "Discusses market cap and network economies for Airbnb, but not market fragmentation or airlines.",
+    "score": 1
+  },
+  "c3f8278f-f544-4c9d-9b00-0db72eb74454": {
+    "chunk_id": "c3f8278f-f544-4c9d-9b00-0db72eb74454",
+    "is_relevant": false,
+    "reason": "Discusses excess assets and the creator economy, unrelated to the question.",
+    "score": 1
+  },
+  "964a0b48-55f2-4d23-8a65-358ace125e13": {
+    "chunk_id": "964a0b48-55f2-4d23-8a65-358ace125e13",
+    "is_relevant": false,
+    "reason": "Mentions automotive as a fragmented global industry and transition to digital, but does not address why fragmentation works for airlines and not Airbnb.",
+    "score": 2
+  },
+  "e848e701-8aad-42de-9017-ac9d07dc43a0": {
+    "chunk_id": "e848e701-8aad-42de-9017-ac9d07dc43a0",
+    "is_relevant": false,
+    "reason": "Mentions aggregating a fragmented market briefly, but does not provide details connecting airlines and Airbnb.",
+    "score": 2
+  },
+  "e2eb89b0-efce-43f9-83a3-5feecd683c01": {
+    "chunk_id": "e2eb89b0-efce-43f9-83a3-5feecd683c01",
+    "is_relevant": false,
+    "reason": "Discusses user motivations and transactional use of Airbnb, unrelated to market fragmentation or airlines.",
+    "score": 1
+  },
+  "5882da8c-f15f-4a86-8cf2-d8b9f5080578": {
+    "chunk_id": "5882da8c-f15f-4a86-8cf2-d8b9f5080578",
+    "is_relevant": false,
+    "reason": "Discusses how Airbnb is a global network that cannot be fragmented, but does not mention the airline industry.",
+    "score": 2
+  },
+  "196e6491-e22f-4c37-9f2e-74fcdfa6c78c": {
+    "chunk_id": "196e6491-e22f-4c37-9f2e-74fcdfa6c78c",
+    "is_relevant": false,
+    "reason": "Discusses the value curve and Airbnb's success across it, unrelated to fragmentation or airlines.",
+    "score": 1
+  },
+  "6d3d8230-0691-497d-8673-0b5b0efb19a9": {
+    "chunk_id": "6d3d8230-0691-497d-8673-0b5b0efb19a9",
+    "is_relevant": false,
+    "reason": "Discusses marketing expenses and cost structure compared to hotel chains, unrelated to market fragmentation and airlines.",
+    "score": 1
+  },
+  "8cee78f8-8d13-422b-b1c5-a28387a49752": {
+    "chunk_id": "8cee78f8-8d13-422b-b1c5-a28387a49752",
+    "is_relevant": false,
+    "reason": "Compares Uber and Airbnb global network effects, but does not mention airlines or market fragmentation rationale.",
+    "score": 2
+  },
+  "49f28c32-f4e8-4120-b6c4-441c75ddc6c5": {
+    "chunk_id": "49f28c32-f4e8-4120-b6c4-441c75ddc6c5",
+    "is_relevant": false,
+    "reason": "Discusses global companies and network effects, but lacks specifics on the airline industry and market fragmentation.",
+    "score": 1
+  },
+  "46b42ae0-3c0b-4188-89fd-64b3caca6960": {
+    "chunk_id": "46b42ae0-3c0b-4188-89fd-64b3caca6960",
+    "is_relevant": false,
+    "reason": "Discusses competition and COVID impact on Airbnb, unrelated to market fragmentation in the airline industry.",
+    "score": 1
+  },
+  "f624da7d-ea92-4bdb-88dc-776d6e55cca2": {
+    "chunk_id": "f624da7d-ea92-4bdb-88dc-776d6e55cca2",
+    "is_relevant": false,
+    "reason": "Discusses network effects for Facebook and Airbnb, not airline market fragmentation.",
+    "score": 1
+  },
+  "647768e3-58b7-4410-b906-76e1d9399fde": {
+    "chunk_id": "647768e3-58b7-4410-b906-76e1d9399fde",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's impact on U.S. long-term rents, unrelated to airlines or market fragmentation requirements.",
+    "score": 1
+  },
+  "7e6913d8-4f1e-4129-b7de-c599bcef566a": {
+    "chunk_id": "7e6913d8-4f1e-4129-b7de-c599bcef566a",
+    "is_relevant": false,
+    "reason": "Discusses retention and travel frequency for Airbnb, unrelated to airline infrastructure and market fragmentation.",
+    "score": 1
+  },
+  "451baee0-77a7-498d-b957-1f64c5c6b1b7": {
+    "chunk_id": "451baee0-77a7-498d-b957-1f64c5c6b1b7",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's community trust and reviews moat, not airline infrastructure.",
+    "score": 1
+  },
+  "5d7808cd-d9b4-48e9-b60c-0817278f8f0d": {
+    "chunk_id": "5d7808cd-d9b4-48e9-b60c-0817278f8f0d",
+    "is_relevant": false,
+    "reason": "Discusses online aggregators and platforms like Uber and Airbnb, no mention of airlines.",
+    "score": 1
+  },
+  "70aea29f-fc09-4b55-8905-b1b9f26a2be0": {
+    "chunk_id": "70aea29f-fc09-4b55-8905-b1b9f26a2be0",
+    "is_relevant": true,
+    "reason": "Directly explains why regional players and different infrastructure work for airlines ('whole different set of infrastructure') while not true for Airbnb ('Whoever was going to capture this short-term rentals market in a global way was also going to win in a local way').",
+    "score": 5
+  },
+  "5510646c-1f12-448b-b4d3-ed1108069fa6": {
+    "chunk_id": "5510646c-1f12-448b-b4d3-ed1108069fa6",
+    "is_relevant": false,
+    "reason": "Discusses network effects for Airbnb and Uber, not market fragmentation or airlines.",
+    "score": 1
+  },
+  "d4f00b47-3acd-4dd4-bc21-3485f1f0764f": {
+    "chunk_id": "d4f00b47-3acd-4dd4-bc21-3485f1f0764f",
+    "is_relevant": false,
+    "reason": "Discusses multi-homing and food delivery platforms, unrelated to the prompt.",
+    "score": 1
+  },
+  "a958e592-d69b-40bc-9584-46e1c2ba0d51": {
+    "chunk_id": "a958e592-d69b-40bc-9584-46e1c2ba0d51",
+    "is_relevant": false,
+    "reason": "Discusses market segments for Airbnb and hotels, unrelated to airline market fragmentation.",
+    "score": 1
+  },
+  "24258291-cdcc-4679-8d28-2e548051c74c": {
+    "chunk_id": "24258291-cdcc-4679-8d28-2e548051c74c",
+    "is_relevant": false,
+    "reason": "Mentions Uber and Airbnb as hotel/taxi chains without assets, not related to airline fragmentation and infrastructure.",
+    "score": 1
+  },
+  "028a1f5a-3316-4b3b-8f4c-a131fea1d718": {
+    "chunk_id": "028a1f5a-3316-4b3b-8f4c-a131fea1d718",
+    "is_relevant": false,
+    "reason": "Discusses ridesharing defensibility and network effects, unrelated to the prompt.",
+    "score": 1
+  },
+  "f02928f7-cc03-4313-880c-ba185005f702": {
+    "chunk_id": "f02928f7-cc03-4313-880c-ba185005f702",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb unlocking new supply, unrelated to airline market fragmentation.",
+    "score": 1
+  },
+  "f2a4caf3-b5ba-4892-bf91-ba76c3816edc": {
+    "chunk_id": "f2a4caf3-b5ba-4892-bf91-ba76c3816edc",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's value creation versus world impact and regulation, unrelated to airlines.",
+    "score": 1
+  }
+}

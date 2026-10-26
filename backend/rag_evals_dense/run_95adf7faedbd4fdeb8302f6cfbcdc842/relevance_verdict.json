@@ -1,0 +1,182 @@
+{
+  "46b42ae0-3c0b-4188-89fd-64b3caca6960": {
+    "chunk_id": "46b42ae0-3c0b-4188-89fd-64b3caca6960",
+    "is_relevant": false,
+    "reason": "Discusses competition with hotels and COVID behaviors, but does not mention Wimdu.",
+    "score": 1
+  },
+  "765780f1-f4bd-4056-95c6-c510bbded623": {
+    "chunk_id": "765780f1-f4bd-4056-95c6-c510bbded623",
+    "is_relevant": false,
+    "reason": "Discusses product differentiation and travel markets generally, but does not mention Wimdu.",
+    "score": 1
+  },
+  "647768e3-58b7-4410-b906-76e1d9399fde": {
+    "chunk_id": "647768e3-58b7-4410-b906-76e1d9399fde",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb and short-term rental housing markets, but does not mention Wimdu.",
+    "score": 1
+  },
+  "17074c7a-acb2-474c-9fcc-23454d741bd8": {
+    "chunk_id": "17074c7a-acb2-474c-9fcc-23454d741bd8",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's organic traffic and growth, but does not mention Wimdu.",
+    "score": 1
+  },
+  "de57ab21-d056-44d8-acf5-e0d9d18be171": {
+    "chunk_id": "de57ab21-d056-44d8-acf5-e0d9d18be171",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's cohorts and performance marketing, but does not mention Wimdu.",
+    "score": 1
+  },
+  "ee3cb8f6-b50f-4d81-839d-9dd4aaad2eca": {
+    "chunk_id": "ee3cb8f6-b50f-4d81-839d-9dd4aaad2eca",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's handling of COVID cancellations and culture, but does not mention Wimdu.",
+    "score": 1
+  },
+  "4582311f-3976-4556-8097-b22f7f78529d": {
+    "chunk_id": "4582311f-3976-4556-8097-b22f7f78529d",
+    "is_relevant": false,
+    "reason": "Discusses marketplace value exchange, but does not mention Wimdu.",
+    "score": 1
+  },
+  "e2eb89b0-efce-43f9-83a3-5feecd683c01": {
+    "chunk_id": "e2eb89b0-efce-43f9-83a3-5feecd683c01",
+    "is_relevant": false,
+    "reason": "Discusses user perceptions of Airbnb, but does not mention Wimdu.",
+    "score": 1
+  },
+  "8d610e78-3eeb-4646-9469-33d80c89bc09": {
+    "chunk_id": "8d610e78-3eeb-4646-9469-33d80c89bc09",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb bear cases and competitors like Vrbo and Booking, but does not mention Wimdu.",
+    "score": 1
+  },
+  "3b6a2a28-6341-4a04-b1a5-854810caa98f": {
+    "chunk_id": "3b6a2a28-6341-4a04-b1a5-854810caa98f",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's COVID layoffs and restructuring, but does not mention Wimdu.",
+    "score": 1
+  },
+  "8bcb734e-864a-40bb-9c28-7d028a1f9603": {
+    "chunk_id": "8bcb734e-864a-40bb-9c28-7d028a1f9603",
+    "is_relevant": false,
+    "reason": "Discusses network economies and global nature of Airbnb, but does not mention Wimdu.",
+    "score": 1
+  },
+  "196e6491-e22f-4c37-9f2e-74fcdfa6c78c": {
+    "chunk_id": "196e6491-e22f-4c37-9f2e-74fcdfa6c78c",
+    "is_relevant": false,
+    "reason": "Discusses economic value of Airbnb's platform, but does not mention Wimdu.",
+    "score": 1
+  },
+  "31b3a852-496c-4afb-83a6-a05c3897c6e8": {
+    "chunk_id": "31b3a852-496c-4afb-83a6-a05c3897c6e8",
+    "is_relevant": true,
+    "reason": "Mentions Wimdu directly as a competitor that never took off alongside Airbnb's business model strengths, though it does not explicitly detail the fragmentation reason given in the reference answer.",
+    "score": 2
+  },
+  "f2a4caf3-b5ba-4892-bf91-ba76c3816edc": {
+    "chunk_id": "f2a4caf3-b5ba-4892-bf91-ba76c3816edc",
+    "is_relevant": false,
+    "reason": "Discusses housing impacts and value creation of Airbnb, but does not mention Wimdu.",
+    "score": 1
+  },
+  "fb19a05a-8a13-4576-8cc1-8dd1e091d599": {
+    "chunk_id": "fb19a05a-8a13-4576-8cc1-8dd1e091d599",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's early growth via Craigslist, but does not mention Wimdu.",
+    "score": 1
+  },
+  "6dff870b-11c1-497c-83fc-5eaaf3ecb258": {
+    "chunk_id": "6dff870b-11c1-497c-83fc-5eaaf3ecb258",
+    "is_relevant": false,
+    "reason": "Discusses host software ecosystems for Airbnb, but does not mention Wimdu.",
+    "score": 1
+  },
+  "a0b740ff-8042-4b7b-8438-f9cb65b93ffa": {
+    "chunk_id": "a0b740ff-8042-4b7b-8438-f9cb65b93ffa",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb's early challenges and venture capital inputs generally, but does not mention Wimdu.",
+    "score": 1
+  },
+  "70aea29f-fc09-4b55-8905-b1b9f26a2be0": {
+    "chunk_id": "70aea29f-fc09-4b55-8905-b1b9f26a2be0",
+    "is_relevant": true,
+    "reason": "Explains that short-term rentals require a global and local approach because travelers become hosts, which relates to why regional players fail, though Wimdu is not named directly.",
+    "score": 3
+  },
+  "f87deec1-54af-49c3-b0e9-48e0ef319f12": {
+    "chunk_id": "f87deec1-54af-49c3-b0e9-48e0ef319f12",
+    "is_relevant": true,
+    "reason": "Mentions fighting the Samwer brothers in Europe and winning a winner-take-all global market.",
+    "score": 3
+  },
+  "596d7850-2b49-48bb-915f-ac74cbf8e59a": {
+    "chunk_id": "596d7850-2b49-48bb-915f-ac74cbf8e59a",
+    "is_relevant": false,
+    "reason": "Discusses aggressive distribution tactics by companies like Facebook and Airbnb, not Wimdu.",
+    "score": 1
+  },
+  "7e6913d8-4f1e-4129-b7de-c599bcef566a": {
+    "chunk_id": "7e6913d8-4f1e-4129-b7de-c599bcef566a",
+    "is_relevant": false,
+    "reason": "Discusses net revenue retention and travel frequency on Airbnb.",
+    "score": 1
+  },
+  "36bda798-7eab-4eb4-898a-eaf86640813b": {
+    "chunk_id": "36bda798-7eab-4eb4-898a-eaf86640813b",
+    "is_relevant": false,
+    "reason": "Discusses supply and demand dynamics and hosting on multiple platforms.",
+    "score": 1
+  },
+  "eb1f9a5a-c40d-4927-b7d6-3c4d9f11d35a": {
+    "chunk_id": "eb1f9a5a-c40d-4927-b7d6-3c4d9f11d35a",
+    "is_relevant": false,
+    "reason": "Discusses the general appeal of Airbnb and marketplaces compared to hotels.",
+    "score": 1
+  },
+  "99dc06a6-09e9-4d60-a30b-423a6b30ec45": {
+    "chunk_id": "99dc06a6-09e9-4d60-a30b-423a6b30ec45",
+    "is_relevant": true,
+    "reason": "Mentions competitors copying Airbnb in Europe and considering buying or merging with Wimdu.",
+    "score": 3
+  },
+  "09b81c2f-cc57-4f01-817c-973ad60798df": {
+    "chunk_id": "09b81c2f-cc57-4f01-817c-973ad60798df",
+    "is_relevant": false,
+    "reason": "Discusses ride-sharing programs and Airbnb's insurance policy.",
+    "score": 1
+  },
+  "27cb7f77-f1f1-4e57-88b8-c8bba1ac440d": {
+    "chunk_id": "27cb7f77-f1f1-4e57-88b8-c8bba1ac440d",
+    "is_relevant": false,
+    "reason": "Discusses platform table stakes and Airbnb's insurance program.",
+    "score": 1
+  },
+  "422107c1-7687-45ac-9d55-915665803401": {
+    "chunk_id": "422107c1-7687-45ac-9d55-915665803401",
+    "is_relevant": false,
+    "reason": "Discusses host consistency and quality issues on Airbnb.",
+    "score": 1
+  },
+  "4bab90fd-dcd4-48b0-bc3b-00f7c1425226": {
+    "chunk_id": "4bab90fd-dcd4-48b0-bc3b-00f7c1425226",
+    "is_relevant": false,
+    "reason": "Discusses pricing and the choice between Airbnb and hotels.",
+    "score": 1
+  },
+  "5882da8c-f15f-4a86-8cf2-d8b9f5080578": {
+    "chunk_id": "5882da8c-f15f-4a86-8cf2-d8b9f5080578",
+    "is_relevant": true,
+    "reason": "Directly explains that Wimdu (a European clone) failed because Airbnb is a global network and you cannot fragment the market, perfectly matching the reference answer.",
+    "score": 5
+  },
+  "1baef26d-fe49-480a-9a3c-83bb94047d4b": {
+    "chunk_id": "1baef26d-fe49-480a-9a3c-83bb94047d4b",
+    "is_relevant": false,
+    "reason": "Discusses public companies and tech founders.",
+    "score": 1
+  }
+}

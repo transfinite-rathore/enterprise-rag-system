@@ -33,7 +33,7 @@ class NDCGAtK(BaseRankingMetric):
         # 2. Calculate Ideal DCG (IDCG)
         # What is the maximum possible score if the best chunks were at the very top?
         all_possible_scores = sorted(
-            [context.verdicts[c].score for c in chunks_id],
+            [context.verdicts[c].score if c in context.verdicts else 0 for c in chunks_id],
             reverse=True
         )
         ideal_top_k_scores = all_possible_scores[:self.k]

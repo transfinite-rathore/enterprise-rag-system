@@ -1,0 +1,182 @@
+{
+  "0f325790-4b5e-4ef8-9ef8-75e763910a23": {
+    "chunk_id": "0f325790-4b5e-4ef8-9ef8-75e763910a23",
+    "is_relevant": true,
+    "reason": "Explicitly states that Costco sells 130 million hot dogs per year, which directly matches the reference answer.",
+    "score": 5
+  },
+  "f5326e26-c87f-4ab4-96d9-2ea5188412c4": {
+    "chunk_id": "f5326e26-c87f-4ab4-96d9-2ea5188412c4",
+    "is_relevant": false,
+    "reason": "Discusses same store sales and retail metrics, completely unrelated to hot dog sales volume.",
+    "score": 1
+  },
+  "10e68f08-acc0-40c9-b100-498d2b5ba351": {
+    "chunk_id": "10e68f08-acc0-40c9-b100-498d2b5ba351",
+    "is_relevant": false,
+    "reason": "Mentions the history and price of the Costco hot dog deal ($1.50) but does not state the annual sales volume.",
+    "score": 2
+  },
+  "02892c9b-42d2-42a4-88eb-49ff0ebcf995": {
+    "chunk_id": "02892c9b-42d2-42a4-88eb-49ff0ebcf995",
+    "is_relevant": false,
+    "reason": "Discusses board discussions and store growth, unrelated to hot dog sales volume.",
+    "score": 1
+  },
+  "1e766256-2742-4072-82ed-cd349ab5aec8": {
+    "chunk_id": "1e766256-2742-4072-82ed-cd349ab5aec8",
+    "is_relevant": false,
+    "reason": "Discusses inventory turnover rates, unrelated to hot dog sales.",
+    "score": 1
+  },
+  "6943d304-7e9e-4c1d-ae9e-f543fbf5a069": {
+    "chunk_id": "6943d304-7e9e-4c1d-ae9e-f543fbf5a069",
+    "is_relevant": false,
+    "reason": "Discusses workforce turnover and employee churn, unrelated to hot dogs.",
+    "score": 1
+  },
+  "3a63d302-f06f-41b7-bd19-6573ed57dde7": {
+    "chunk_id": "3a63d302-f06f-41b7-bd19-6573ed57dde7",
+    "is_relevant": false,
+    "reason": "Discusses executive member spending and customer segmentation, unrelated to hot dogs.",
+    "score": 1
+  },
+  "28b39f83-8ffe-4ec5-8fec-686858db02c0": {
+    "chunk_id": "28b39f83-8ffe-4ec5-8fec-686858db02c0",
+    "is_relevant": false,
+    "reason": "Discusses total revenue, member counts, and employee numbers, unrelated to hot dog sales volume.",
+    "score": 1
+  },
+  "6e26dc51-b895-4bad-89ce-6eaec92a9ee7": {
+    "chunk_id": "6e26dc51-b895-4bad-89ce-6eaec92a9ee7",
+    "is_relevant": false,
+    "reason": "Discusses single store revenue compared to other retailers, unrelated to hot dogs.",
+    "score": 1
+  },
+  "ca1b2081-68ce-437f-836d-3b62ae26de26": {
+    "chunk_id": "ca1b2081-68ce-437f-836d-3b62ae26de26",
+    "is_relevant": false,
+    "reason": "Discusses Kirkland Signature sales, unrelated to hot dog sales volume.",
+    "score": 1
+  },
+  "2baaea59-1dc9-4c2a-970d-8f86f55e62f0": {
+    "chunk_id": "2baaea59-1dc9-4c2a-970d-8f86f55e62f0",
+    "is_relevant": false,
+    "reason": "Introduces the hot dog price story, but does not provide the number of hot dogs sold per year.",
+    "score": 2
+  },
+  "043bc370-b767-47ef-bedd-cd2ba6bd926a": {
+    "chunk_id": "043bc370-b767-47ef-bedd-cd2ba6bd926a",
+    "is_relevant": false,
+    "reason": "Discusses revenue growth and square foot metrics, unrelated to hot dogs.",
+    "score": 1
+  },
+  "6f38431d-2773-4533-b7d1-62432208fc4f": {
+    "chunk_id": "6f38431d-2773-4533-b7d1-62432208fc4f",
+    "is_relevant": false,
+    "reason": "Discusses SKU counts at Costco, unrelated to hot dogs.",
+    "score": 1
+  },
+  "3e67bcd4-73e3-44d7-af42-bb9e1a8382f7": {
+    "chunk_id": "3e67bcd4-73e3-44d7-af42-bb9e1a8382f7",
+    "is_relevant": false,
+    "reason": "Discusses the anecdote about keeping the hot dog price at $1.50, but doesn't mention annual sales quantity.",
+    "score": 2
+  },
+  "b98fbe78-65fd-4b8f-855e-813f5c8309e9": {
+    "chunk_id": "b98fbe78-65fd-4b8f-855e-813f5c8309e9",
+    "is_relevant": false,
+    "reason": "Briefly mentions the Costco hot dog as an extreme item, but provides no statistics on sales volume.",
+    "score": 2
+  },
+  "84a1f607-720e-484a-b043-cdfa4ab7c874": {
+    "chunk_id": "84a1f607-720e-484a-b043-cdfa4ab7c874",
+    "is_relevant": false,
+    "reason": "Discusses Costco's chicken processing and vertical integration, unrelated to hot dogs.",
+    "score": 1
+  },
+  "bb25af07-a1de-4bfe-aced-3dbd4310ecc2": {
+    "chunk_id": "bb25af07-a1de-4bfe-aced-3dbd4310ecc2",
+    "is_relevant": false,
+    "reason": "Discusses Costco revenue compared to Sam's Club and e-commerce, but does not mention hot dogs or sales volume.",
+    "score": 1
+  },
+  "676786e0-2799-4313-9e9e-ac2e82d30867": {
+    "chunk_id": "676786e0-2799-4313-9e9e-ac2e82d30867",
+    "is_relevant": false,
+    "reason": "Discusses Amazon's inventory turns and third-party sellers compared to Costco, no mention of hot dogs.",
+    "score": 1
+  },
+  "b2458b3b-79b3-40f0-935e-5ed474265b18": {
+    "chunk_id": "b2458b3b-79b3-40f0-935e-5ed474265b18",
+    "is_relevant": false,
+    "reason": "Discusses the merger history of Costco and Price Club and revenue growth, no mention of hot dogs.",
+    "score": 1
+  },
+  "901f9945-c277-41c3-a057-a56592c0252a": {
+    "chunk_id": "901f9945-c277-41c3-a057-a56592c0252a",
+    "is_relevant": false,
+    "reason": "Discusses Spotify, Lil Wayne, and Costco chicken sales, but not hot dogs.",
+    "score": 1
+  },
+  "2dfedab9-c30b-4164-931b-4d6e04ba42a6": {
+    "chunk_id": "2dfedab9-c30b-4164-931b-4d6e04ba42a6",
+    "is_relevant": false,
+    "reason": "Discusses Costco shopper demographics and membership psychology, no mention of hot dogs.",
+    "score": 1
+  },
+  "70a5538e-264a-47dd-8a9f-28dfe28d5909": {
+    "chunk_id": "70a5538e-264a-47dd-8a9f-28dfe28d5909",
+    "is_relevant": false,
+    "reason": "Mentions Costco hot dogs and how management refuses to raise the price, but does not contain the specific number of hot dogs sold per year.",
+    "score": 2
+  },
+  "9d5115c3-73fd-43c8-9d73-eb0f0b6194ad": {
+    "chunk_id": "9d5115c3-73fd-43c8-9d73-eb0f0b6194ad",
+    "is_relevant": false,
+    "reason": "Discusses average revenue per product and supplier relationships at Costco, no mention of hot dogs.",
+    "score": 1
+  },
+  "79460307-8a59-4f24-b06f-10819ce572fb": {
+    "chunk_id": "79460307-8a59-4f24-b06f-10819ce572fb",
+    "is_relevant": false,
+    "reason": "Discusses consumer income and purchasing behavior at Costco, no mention of hot dogs.",
+    "score": 1
+  },
+  "862e20e8-b400-4df3-9512-8f7750e93694": {
+    "chunk_id": "862e20e8-b400-4df3-9512-8f7750e93694",
+    "is_relevant": false,
+    "reason": "Discusses financial metrics for a food delivery platform (S-1), completely unrelated to Costco hot dogs.",
+    "score": 1
+  },
+  "7e8aecb3-19f6-4c98-9565-54174fd22d2d": {
+    "chunk_id": "7e8aecb3-19f6-4c98-9565-54174fd22d2d",
+    "is_relevant": false,
+    "reason": "Discusses Costco store saturation and domestic expansion, no mention of hot dogs.",
+    "score": 1
+  },
+  "b221bd3d-33b6-4159-8a60-b5b63a62fd41": {
+    "chunk_id": "b221bd3d-33b6-4159-8a60-b5b63a62fd41",
+    "is_relevant": false,
+    "reason": "Discusses Costco revenue compared to Walmart and revenue per square foot, no mention of hot dogs.",
+    "score": 1
+  },
+  "7d78855b-e947-46e3-a147-13b1e539dca0": {
+    "chunk_id": "7d78855b-e947-46e3-a147-13b1e539dca0",
+    "is_relevant": false,
+    "reason": "Discusses store performance, gas, and ancillary items, but does not mention hot dog sales figures.",
+    "score": 1
+  },
+  "9d7192cd-053a-4659-b35a-7f2cbae761eb": {
+    "chunk_id": "9d7192cd-053a-4659-b35a-7f2cbae761eb",
+    "is_relevant": false,
+    "reason": "Discusses executive membership renewal rates and loyalty programs, no mention of hot dogs.",
+    "score": 1
+  },
+  "9d4ac3fd-4072-4389-9668-b02764335ffa": {
+    "chunk_id": "9d4ac3fd-4072-4389-9668-b02764335ffa",
+    "is_relevant": false,
+    "reason": "Discusses Costco member demographics and business growth rates, no mention of hot dogs.",
+    "score": 1
+  }
+}

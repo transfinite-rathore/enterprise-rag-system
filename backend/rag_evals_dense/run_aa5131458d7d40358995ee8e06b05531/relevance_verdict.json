@@ -1,0 +1,182 @@
+{
+  "e848e701-8aad-42de-9017-ac9d07dc43a0": {
+    "chunk_id": "e848e701-8aad-42de-9017-ac9d07dc43a0",
+    "is_relevant": false,
+    "reason": "Discusses creator economy and aggregation theory generally, but does not address airlines or Airbnb market fragmentation.",
+    "score": 2
+  },
+  "4582311f-3976-4556-8097-b22f7f78529d": {
+    "chunk_id": "4582311f-3976-4556-8097-b22f7f78529d",
+    "is_relevant": false,
+    "reason": "Mentions Airbnb's marketplace value, insurance, trust, and safety, but does not discuss market fragmentation or airlines.",
+    "score": 2
+  },
+  "2bec2579-08d9-4858-a987-d4d56a605471": {
+    "chunk_id": "2bec2579-08d9-4858-a987-d4d56a605471",
+    "is_relevant": false,
+    "reason": "Discusses online travel aggregators and aggregation theory, but does not explain airline vs. Airbnb market fragmentation.",
+    "score": 2
+  },
+  "9c30428b-b07e-4cc1-b72c-b2891513d078": {
+    "chunk_id": "9c30428b-b07e-4cc1-b72c-b2891513d078",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb network effects and choices, but does not mention airlines or why market fragmentation works differently.",
+    "score": 2
+  },
+  "d4f00b47-3acd-4dd4-bc21-3485f1f0764f": {
+    "chunk_id": "d4f00b47-3acd-4dd4-bc21-3485f1f0764f",
+    "is_relevant": false,
+    "reason": "Discusses multihoming, food delivery, and scale economies, unrelated to airlines and Airbnb fragmentation.",
+    "score": 1
+  },
+  "c3f8278f-f544-4c9d-9b00-0db72eb74454": {
+    "chunk_id": "c3f8278f-f544-4c9d-9b00-0db72eb74454",
+    "is_relevant": false,
+    "reason": "Mentions Airbnb briefly in the context of excess assets and time, but doesn't cover market fragmentation or airlines.",
+    "score": 1
+  },
+  "c78063f8-c6bf-49ad-b5c3-acd53eff1f1d": {
+    "chunk_id": "c78063f8-c6bf-49ad-b5c3-acd53eff1f1d",
+    "is_relevant": false,
+    "reason": "Discusses market cap and network economies for Airbnb, but does not address airlines or market fragmentation differences.",
+    "score": 2
+  },
+  "8bcb734e-864a-40bb-9c28-7d028a1f9603": {
+    "chunk_id": "8bcb734e-864a-40bb-9c28-7d028a1f9603",
+    "is_relevant": false,
+    "reason": "Discusses two-sided network effects for Airbnb and other platforms, but lacks information on airlines and fragmentation.",
+    "score": 2
+  },
+  "196e6491-e22f-4c37-9f2e-74fcdfa6c78c": {
+    "chunk_id": "196e6491-e22f-4c37-9f2e-74fcdfa6c78c",
+    "is_relevant": false,
+    "reason": "Discusses quality and price spectrum for Airbnb, but does not address airlines or market fragmentation.",
+    "score": 1
+  },
+  "5d7808cd-d9b4-48e9-b60c-0817278f8f0d": {
+    "chunk_id": "5d7808cd-d9b4-48e9-b60c-0817278f8f0d",
+    "is_relevant": false,
+    "reason": "Mentions Airbnb and hotels alongside Uber and taxis, but does not address airlines or market fragmentation requirements.",
+    "score": 2
+  },
+  "c364ecfa-cd2e-45b0-ab4d-bd2a65759c3d": {
+    "chunk_id": "c364ecfa-cd2e-45b0-ab4d-bd2a65759c3d",
+    "is_relevant": false,
+    "reason": "Discusses Aggregation Theory and network effects generally, not specific to airlines and Airbnb.",
+    "score": 1
+  },
+  "01088351-1d23-47ef-b40b-407a6067b795": {
+    "chunk_id": "01088351-1d23-47ef-b40b-407a6067b795",
+    "is_relevant": false,
+    "reason": "Discusses connectivity and scale businesses in travel booking, but does not explain airline vs. Airbnb fragmentation.",
+    "score": 2
+  },
+  "489cb8e8-1828-4fc8-8080-f8b4481186d0": {
+    "chunk_id": "489cb8e8-1828-4fc8-8080-f8b4481186d0",
+    "is_relevant": false,
+    "reason": "Discusses airlines (like Southwest) and point-to-point travel in relation to aggregators, but does not contrast with Airbnb's market structure.",
+    "score": 2
+  },
+  "db00b479-7a1e-413a-b517-64fce41a4403": {
+    "chunk_id": "db00b479-7a1e-413a-b517-64fce41a4403",
+    "is_relevant": false,
+    "reason": "Discusses scale economies and network economies of Uber, unrelated to airlines and Airbnb fragmentation.",
+    "score": 1
+  },
+  "2f0c281f-f8f1-406d-8a25-9c008875df7a": {
+    "chunk_id": "2f0c281f-f8f1-406d-8a25-9c008875df7a",
+    "is_relevant": false,
+    "reason": "Discusses Aggregation Theory and data value, but does not address airlines or Airbnb.",
+    "score": 1
+  },
+  "12698222-a104-40cd-a41c-54ba9a803378": {
+    "chunk_id": "12698222-a104-40cd-a41c-54ba9a803378",
+    "is_relevant": false,
+    "reason": "Discusses data and Aggregation Theory, unrelated to the specific question about airlines and Airbnb.",
+    "score": 1
+  },
+  "8cee78f8-8d13-422b-b1c5-a28387a49752": {
+    "chunk_id": "8cee78f8-8d13-422b-b1c5-a28387a49752",
+    "is_relevant": false,
+    "reason": "Discusses Uber and Airbnb global network effects, but does not mention the airline industry or market fragmentation.",
+    "score": 2
+  },
+  "83745f8c-273b-4c39-9be8-918670ddf886": {
+    "chunk_id": "83745f8c-273b-4c39-9be8-918670ddf886",
+    "is_relevant": false,
+    "reason": "Discusses scale economies and multi-sided network effects without mentioning airlines or Airbnb fragmentation.",
+    "score": 1
+  },
+  "7e6913d8-4f1e-4129-b7de-c599bcef566a": {
+    "chunk_id": "7e6913d8-4f1e-4129-b7de-c599bcef566a",
+    "is_relevant": false,
+    "reason": "Discusses supply/demand retention for travel and Airbnb, but does not mention airlines or market fragmentation.",
+    "score": 2
+  },
+  "06423097-f2a9-4224-9ffc-e754b7493176": {
+    "chunk_id": "06423097-f2a9-4224-9ffc-e754b7493176",
+    "is_relevant": false,
+    "reason": "Discusses platform scale value and multihoming, unrelated to the specific question about airlines and Airbnb.",
+    "score": 1
+  },
+  "1b7c0481-cabd-4789-a66a-4fe117653fd2": {
+    "chunk_id": "1b7c0481-cabd-4789-a66a-4fe117653fd2",
+    "is_relevant": false,
+    "reason": "Discusses density economics and scaling in a region, but not the airline industry or Airbnb comparison.",
+    "score": 1
+  },
+  "e758c37c-dc30-4279-8dcc-1a2a93790d75": {
+    "chunk_id": "e758c37c-dc30-4279-8dcc-1a2a93790d75",
+    "is_relevant": false,
+    "reason": "Discusses scale benefits and data network effects generally, not the prompt's specific question.",
+    "score": 1
+  },
+  "de57ab21-d056-44d8-acf5-e0d9d18be171": {
+    "chunk_id": "de57ab21-d056-44d8-acf5-e0d9d18be171",
+    "is_relevant": false,
+    "reason": "Discusses Airbnb cohort revenues and reviews, but mentions nothing about airlines or market fragmentation.",
+    "score": 1
+  },
+  "5973b812-053a-455b-99d8-5e32dd6c9e05": {
+    "chunk_id": "5973b812-053a-455b-99d8-5e32dd6c9e05",
+    "is_relevant": false,
+    "reason": "Discusses network effects in digital markets generally, not relevant to the airline/Airbnb comparison.",
+    "score": 1
+  },
+  "cb81ca9b-0156-46f3-8f2f-89eef4857638": {
+    "chunk_id": "cb81ca9b-0156-46f3-8f2f-89eef4857638",
+    "is_relevant": false,
+    "reason": "Discusses internet aggregation effects and scale generally, not the specific question.",
+    "score": 1
+  },
+  "a229f175-9bba-48fb-8e61-40fadb523c84": {
+    "chunk_id": "a229f175-9bba-48fb-8e61-40fadb523c84",
+    "is_relevant": false,
+    "reason": "Discusses economies of scale and multihoming, without mentioning airlines or Airbnb fragmentation.",
+    "score": 1
+  },
+  "481b05b6-7e80-49bb-92e5-2949c75187f7": {
+    "chunk_id": "481b05b6-7e80-49bb-92e5-2949c75187f7",
+    "is_relevant": false,
+    "reason": "Discusses Aggregation Theory applied to food delivery, irrelevant to airlines and Airbnb.",
+    "score": 1
+  },
+  "765780f1-f4bd-4056-95c6-c510bbded623": {
+    "chunk_id": "765780f1-f4bd-4056-95c6-c510bbded623",
+    "is_relevant": false,
+    "reason": "Mentions Airbnb and travel differentiation briefly, but does not address airlines or market fragmentation requirements.",
+    "score": 2
+  },
+  "119bc2e0-c3c0-4879-bb76-1df5aaa63bc7": {
+    "chunk_id": "119bc2e0-c3c0-4879-bb76-1df5aaa63bc7",
+    "is_relevant": false,
+    "reason": "Discusses Aggregation Theory history and Apple/Facebook, completely irrelevant.",
+    "score": 1
+  },
+  "5a08d618-1600-4d5b-9f4c-0339abc1a1de": {
+    "chunk_id": "5a08d618-1600-4d5b-9f4c-0339abc1a1de",
+    "is_relevant": false,
+    "reason": "Discusses scale economies and fixed costs for developers/platforms, unrelated to airlines and Airbnb.",
+    "score": 1
+  }
+}

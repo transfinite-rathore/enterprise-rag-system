@@ -1,0 +1,682 @@
+{
+  "query": "Why does market fragmentation work for airline industry but could't work for Airbnb",
+  "user_id": "123",
+  "conversation_id": "4273c79f-bb8c-484f-94cf-208994e707c1",
+  "retrieved_result": [
+    {
+      "chunk_id": "e848e701-8aad-42de-9017-ac9d07dc43a0",
+      "content": "well, but still relatively supply constrained from some big ones—the natural tendency is for you to think, this is much better because all of a sudden, you have this much wider scope of different creators that matters. It's great. David: And aggregate a fragmented market. Daniel: Yeah, you can do the aggregation theory. That's all good and great. What we don't really contemplate all that much is obviously there are other challenges for that business model. Moderation all of a sudden becomes a massive thing. You have to build an actual ad network that probably then scales. In theory, yes,",
+      "score": 0.7765968,
+      "metadata": {
+        "content": "well, but still relatively supply constrained from some big ones—the natural tendency is for you to think, this is much better because all of a sudden, you have this much wider scope of different creators that matters. It's great. David: And aggregate a fragmented market. Daniel: Yeah, you can do the aggregation theory. That's all good and great. What we don't really contemplate all that much is obviously there are other challenges for that business model. Moderation all of a sudden becomes a massive thing. You have to build an actual ad network that probably then scales. In theory, yes,",
+        "post_url": "https://www.acquired.fm/episodes/spotify-ceo-daniel-ek",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "May 17, 2023",
+        "blog_title": "Related Episodes",
+        "file_name": "spotify_ceo_daniel_ek",
+        "has_transcript": true,
+        "document_id": "f5122d5d-50a4-4797-a360-7f5eee38640b",
+        "title": "Spotify CEO Daniel Ek"
+      }
+    },
+    {
+      "chunk_id": "4582311f-3976-4556-8097-b22f7f78529d",
+      "content": "of those networks, in those businesses. There’s a spectrum of marketplaces that extract roughly as much value as they provide. I would put Airbnb probably on that end of the spectrum, so it’s kind of an even exchange. But Airbnb may even provide more value than it takes. Who knows? They have insurance, trust, safety, and blah-blah-blah. Then there’s the other end of the spectrum where they’re extracting so much disproportionate value that one or more sides of the marketplace will essentially do anything they can to get the hell off the marketplace. Uber would be squarely in that bucket, maybe",
+      "score": 0.7722066,
+      "metadata": {
+        "content": "of those networks, in those businesses. There’s a spectrum of marketplaces that extract roughly as much value as they provide. I would put Airbnb probably on that end of the spectrum, so it’s kind of an even exchange. But Airbnb may even provide more value than it takes. Who knows? They have insurance, trust, safety, and blah-blah-blah. Then there’s the other end of the spectrum where they’re extracting so much disproportionate value that one or more sides of the marketplace will essentially do anything they can to get the hell off the marketplace. Uber would be squarely in that bucket, maybe",
+        "post_url": "https://www.acquired.fm/episodes/web3-marketplaces-with-braintrust-ceo-adam-jackson",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "October 26, 2021",
+        "blog_title": "Related Episodes",
+        "file_name": "web3_marketplaces_with_braintrust_ceo_adam_jackson",
+        "has_transcript": true,
+        "document_id": "9f2fe591-b8f6-425c-be3a-214226469922",
+        "title": "Web3 Marketplaces (with Braintrust CEO Adam Jackson)"
+      }
+    },
+    {
+      "chunk_id": "2bec2579-08d9-4858-a987-d4d56a605471",
+      "content": "you having a smaller operation could kill you. So if you follow it all the way back to the online travel aggregators, does that create the environment in which you need to have a bidding war for this acquisition so that you could be a more major player in a consolidate market? David: Yeah. That’s interesting. It’s different because it hasn’t fully become a digitized industry, but it’s reminiscent of Ben Thompson’s aggregation theory where aggregating a consumer endpoint and experience, he argues, in the digital 21st Century post-internet world, is where all the value is. Then you can",
+      "score": 0.7696598,
+      "metadata": {
+        "content": "you having a smaller operation could kill you. So if you follow it all the way back to the online travel aggregators, does that create the environment in which you need to have a bidding war for this acquisition so that you could be a more major player in a consolidate market? David: Yeah. That’s interesting. It’s different because it hasn’t fully become a digitized industry, but it’s reminiscent of Ben Thompson’s aggregation theory where aggregating a consumer endpoint and experience, he argues, in the digital 21st Century post-internet world, is where all the value is. Then you can",
+        "post_url": "https://www.acquired.fm/episodes/episode-10-virgin-america",
+        "series_number": "Season 1, Episode 10",
+        "blog_date": "April 26, 2016",
+        "blog_title": "Related Episodes",
+        "file_name": "virgin_america",
+        "has_transcript": true,
+        "document_id": "2c13a1db-d8fe-4457-ac57-2f6f9fa65921",
+        "title": "Virgin America"
+      }
+    },
+    {
+      "chunk_id": "9c30428b-b07e-4cc1-b72c-b2891513d078",
+      "content": "It's not that strong of a network effect because you don't need to interface with lots and lots of nodes in the system. Whereas with Airbnb, I don't care who owns the place that I'm staying at. I just want the most choice with the most interesting options such that there is sufficient density where I want to go in the price tier that I want when I get there. That is a truly amazing network effect where—exactly to your point—every node that's out of the system has meaningful additional value rather than this concentration where my friends around me provide value, but everyone else that’s on",
+      "score": 0.765971,
+      "metadata": {
+        "content": "It's not that strong of a network effect because you don't need to interface with lots and lots of nodes in the system. Whereas with Airbnb, I don't care who owns the place that I'm staying at. I just want the most choice with the most interesting options such that there is sufficient density where I want to go in the price tier that I want when I get there. That is a truly amazing network effect where—exactly to your point—every node that's out of the system has meaningful additional value rather than this concentration where my friends around me provide value, but everyone else that’s on",
+        "post_url": "https://www.acquired.fm/episodes/airbnb",
+        "series_number": "Season 7, Episode 8",
+        "blog_date": "December 10, 2020",
+        "blog_title": "‍",
+        "file_name": "airbnb",
+        "has_transcript": true,
+        "document_id": "2cba2ea8-820e-4ef6-bd01-cefd632f488c",
+        "title": "Airbnb"
+      }
+    },
+    {
+      "chunk_id": "d4f00b47-3acd-4dd4-bc21-3485f1f0764f",
+      "content": "the ecosystem, it's very easy to multihome and it's very easy to choose the next best competitor. It's easy to order food, it's easy to deliver food, and it's easy to, as a restaurant, also list on UberEats, no problem at all. I think any defensibility that comes from a network effect is not really real. David: Yeah, I was going to say that it's related to order times and density, but that's scale economies. So, yeah, I think scale economies are the big one. Ben: There's something to brand, but it's always hard to actually know how much to sort of chalk up to brand. One thing is really true",
+      "score": 0.7648511,
+      "metadata": {
+        "content": "the ecosystem, it's very easy to multihome and it's very easy to choose the next best competitor. It's easy to order food, it's easy to deliver food, and it's easy to, as a restaurant, also list on UberEats, no problem at all. I think any defensibility that comes from a network effect is not really real. David: Yeah, I was going to say that it's related to order times and density, but that's scale economies. So, yeah, I think scale economies are the big one. Ben: There's something to brand, but it's always hard to actually know how much to sort of chalk up to brand. One thing is really true",
+        "post_url": "https://www.acquired.fm/episodes/doordash",
+        "series_number": "Season 7, Episode 7",
+        "blog_date": "December 9, 2020",
+        "blog_title": "Related Episodes",
+        "file_name": "doordash",
+        "has_transcript": true,
+        "document_id": "417d7924-2d99-40f8-b261-1cf92b8e6eda",
+        "title": "DoorDash"
+      }
+    },
+    {
+      "chunk_id": "c3f8278f-f544-4c9d-9b00-0db72eb74454",
+      "content": "on the side. You mentioned Airbnb earlier. There were excess assets and excess items before. We're seeing a lot of businesses these days that are a little bit more focused on leveraging people's excess time. How can you build a business by taking advantage of the fact that people have inherent social reach, they have curiosities and existing interests, and they have more availability of time that they can contribute in one way, shape, or form? Some of these have been dubbed this broader creator economy, which I think in some ways is the wrong way to think about it, because a lot of folks want",
+      "score": 0.7618748,
+      "metadata": {
+        "content": "on the side. You mentioned Airbnb earlier. There were excess assets and excess items before. We're seeing a lot of businesses these days that are a little bit more focused on leveraging people's excess time. How can you build a business by taking advantage of the fact that people have inherent social reach, they have curiosities and existing interests, and they have more availability of time that they can contribute in one way, shape, or form? Some of these have been dubbed this broader creator economy, which I think in some ways is the wrong way to think about it, because a lot of folks want",
+        "post_url": "https://www.acquired.fm/episodes/consumer-investing-in-2022-with-brian-omalley-of-forerunner-ventures",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "October 31, 2022",
+        "blog_title": "Related Episodes",
+        "file_name": "consumer_investing_in_2022_with_brian_omalley_of_forerunner_ventures",
+        "has_transcript": true,
+        "document_id": "d8aa4359-0d07-40ae-9436-5e25c114772a",
+        "title": "Consumer Investing in 2022 (with Brian O'Malley of Forerunner Ventures)"
+      }
+    },
+    {
+      "chunk_id": "c78063f8-c6bf-49ad-b5c3-acd53eff1f1d",
+      "content": "the power that allows them to generate persistent profit margins, overall those future years are the way that you would calculate the market cap. If you're someone who's excited about Airbnb as a $100 billion market cap company today, to what power do you attribute that? Why do you believe that they are able to do that? David, with that preamble aside, I’m curious, what types of power do you think show up in Airbnb? David: The totally obvious one—just like scale economies were the totally obvious one for DoorDash—for Airbnb is network economies. This is a two-sided network effect. It is",
+      "score": 0.7612497,
+      "metadata": {
+        "content": "the power that allows them to generate persistent profit margins, overall those future years are the way that you would calculate the market cap. If you're someone who's excited about Airbnb as a $100 billion market cap company today, to what power do you attribute that? Why do you believe that they are able to do that? David, with that preamble aside, I’m curious, what types of power do you think show up in Airbnb? David: The totally obvious one—just like scale economies were the totally obvious one for DoorDash—for Airbnb is network economies. This is a two-sided network effect. It is",
+        "post_url": "https://www.acquired.fm/episodes/airbnb",
+        "series_number": "Season 7, Episode 8",
+        "blog_date": "December 10, 2020",
+        "blog_title": "‍",
+        "file_name": "airbnb",
+        "has_transcript": true,
+        "document_id": "2cba2ea8-820e-4ef6-bd01-cefd632f488c",
+        "title": "Airbnb"
+      }
+    },
+    {
+      "chunk_id": "8bcb734e-864a-40bb-9c28-7d028a1f9603",
+      "content": "obvious one for DoorDash—for Airbnb is network economies. This is a two-sided network effect. It is global in nature. It is as powerful as I have ever seen in a business. I think, generally, you think about network effects, single-node network effects like a social network like an Instagram or Facebook—those tend to be the most powerful. Dual-sided network effects where you've got one class and another class, buyers and sellers, hosts and guests like you would have in eBay Amazon, or here in Airbnb, tended to just generally be a little weaker because you're bifurcating the types of",
+      "score": 0.75869316,
+      "metadata": {
+        "content": "obvious one for DoorDash—for Airbnb is network economies. This is a two-sided network effect. It is global in nature. It is as powerful as I have ever seen in a business. I think, generally, you think about network effects, single-node network effects like a social network like an Instagram or Facebook—those tend to be the most powerful. Dual-sided network effects where you've got one class and another class, buyers and sellers, hosts and guests like you would have in eBay Amazon, or here in Airbnb, tended to just generally be a little weaker because you're bifurcating the types of",
+        "post_url": "https://www.acquired.fm/episodes/airbnb",
+        "series_number": "Season 7, Episode 8",
+        "blog_date": "December 10, 2020",
+        "blog_title": "‍",
+        "file_name": "airbnb",
+        "has_transcript": true,
+        "document_id": "2cba2ea8-820e-4ef6-bd01-cefd632f488c",
+        "title": "Airbnb"
+      }
+    },
+    {
+      "chunk_id": "196e6491-e22f-4c37-9f2e-74fcdfa6c78c",
+      "content": "that expands out that curve so that I get more quality for less money. Ben: Right, for any given price, I get more quality all the way across the spectrum. David: Exactly or even maybe it's only for a portion of that curve, but for some area of the graph, you have exceeded the current market. If you can do that in any market, you will be successful. Airbnb did this incredibly well across pretty much the whole graph. Ben: It's like the economist's view of why this company is valuable. David: Yeah, exactly. Ben: The next big one I had was around creating unique supplies, but I think we've",
+      "score": 0.75481254,
+      "metadata": {
+        "content": "that expands out that curve so that I get more quality for less money. Ben: Right, for any given price, I get more quality all the way across the spectrum. David: Exactly or even maybe it's only for a portion of that curve, but for some area of the graph, you have exceeded the current market. If you can do that in any market, you will be successful. Airbnb did this incredibly well across pretty much the whole graph. Ben: It's like the economist's view of why this company is valuable. David: Yeah, exactly. Ben: The next big one I had was around creating unique supplies, but I think we've",
+        "post_url": "https://www.acquired.fm/episodes/airbnb",
+        "series_number": "Season 7, Episode 8",
+        "blog_date": "December 10, 2020",
+        "blog_title": "‍",
+        "file_name": "airbnb",
+        "has_transcript": true,
+        "document_id": "2cba2ea8-820e-4ef6-bd01-cefd632f488c",
+        "title": "Airbnb"
+      }
+    },
+    {
+      "chunk_id": "5d7808cd-d9b4-48e9-b60c-0817278f8f0d",
+      "content": "that the online distributors have created competitive advantage against their packaged goods rivals and how they built very similar businesses to a lot of the businesses that we've seen emerge and disrupt incumbent industries across the internet space. Uber and the taxi industry or Airbnb and the hotel industry, where you aggregate demand on an online platform, and then you utilize that demand to leverage the supply side of whatever industry that you're entering. I think if you look at Steam, Steam shares many of those attributes. I think that move was essentially perfected by Tencent, with",
+      "score": 0.7539079,
+      "metadata": {
+        "content": "that the online distributors have created competitive advantage against their packaged goods rivals and how they built very similar businesses to a lot of the businesses that we've seen emerge and disrupt incumbent industries across the internet space. Uber and the taxi industry or Airbnb and the hotel industry, where you aggregate demand on an online platform, and then you utilize that demand to leverage the supply side of whatever industry that you're entering. I think if you look at Steam, Steam shares many of those attributes. I think that move was essentially perfected by Tencent, with",
+        "post_url": "https://www.acquired.fm/episodes/benchmarks-mitch-lasky-and-blake-robbins-on-the-art-of-business-in-gaming",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "April 25, 2023",
+        "blog_title": "Related Episodes",
+        "file_name": "benchmarks_mitch_lasky_and_blake_robbins_on_the_art_of_business_in_gaming",
+        "has_transcript": true,
+        "document_id": "38cd187c-a224-451c-b4f7-911a963be933",
+        "title": "Benchmark’s Mitch Lasky and Blake Robbins on The Art of Business in Gaming"
+      }
+    },
+    {
+      "chunk_id": "c364ecfa-cd2e-45b0-ab4d-bd2a65759c3d",
+      "content": "the meta theme is Aggregation Theory on top of that because the output of if you do these three things is you’ll create a superior customer experience. That really is the goal of starting small, solving a specific problem better than anyone else for a specific customer, and then growing from there and then network effects layering on top of that and making the product even better in providing defensibility. Those together, you get Aggregation Theory. Ben: You can do a lot worse than using these as your checklist when starting or pitching or refining an idea as like am I going to be able to",
+      "score": 0.7502592,
+      "metadata": {
+        "content": "the meta theme is Aggregation Theory on top of that because the output of if you do these three things is you’ll create a superior customer experience. That really is the goal of starting small, solving a specific problem better than anyone else for a specific customer, and then growing from there and then network effects layering on top of that and making the product even better in providing defensibility. Those together, you get Aggregation Theory. Ben: You can do a lot worse than using these as your checklist when starting or pitching or refining an idea as like am I going to be able to",
+        "post_url": "https://www.acquired.fm/episodes/episode-29-special2016-review-and-2017-predictions",
+        "series_number": "Season 1, Episode 29",
+        "blog_date": "January 11, 2017",
+        "blog_title": "Related Episodes",
+        "file_name": "special_2016_review_and_2017_predictions",
+        "has_transcript": true,
+        "document_id": "76bd619a-f9ca-4ac1-8766-e1095ef5b508",
+        "title": "Special: 2016 Review and 2017 Predictions"
+      }
+    },
+    {
+      "chunk_id": "01088351-1d23-47ef-b40b-407a6067b795",
+      "content": "also the amount of required connectivity between all these different entities is kind of a high technical bar to get started and I think that these businesses, kind of aggregation theory in play here, are scale businesses so that in order to provide a lot of people have new ideas for how to make the travel booking experience better and the trip planning experience better, and I think it’s almost become a trope that like if you go to a startup weekend, you’re going to see somebody pitching a better way to plan trips and do something in that space, but it seems like it’s just really hard to",
+      "score": 0.74766886,
+      "metadata": {
+        "content": "also the amount of required connectivity between all these different entities is kind of a high technical bar to get started and I think that these businesses, kind of aggregation theory in play here, are scale businesses so that in order to provide a lot of people have new ideas for how to make the travel booking experience better and the trip planning experience better, and I think it’s almost become a trope that like if you go to a startup weekend, you’re going to see somebody pitching a better way to plan trips and do something in that space, but it seems like it’s just really hard to",
+        "post_url": "https://www.acquired.fm/episodes/episode-41-bookingcom-with-jetsetter-room-77-ceo-drew-patterson",
+        "series_number": "Season 1, Episode 41",
+        "blog_date": "July 25, 2017",
+        "blog_title": "Related Episodes",
+        "file_name": "bookingcom_with_jetsetter_room_77_ceo_drew_patterson",
+        "has_transcript": true,
+        "document_id": "02364c06-58f7-48db-b3ba-cfab405f5917",
+        "title": "Booking.com with Jetsetter & Room 77 CEO Drew Patterson"
+      }
+    },
+    {
+      "chunk_id": "489cb8e8-1828-4fc8-8080-f8b4481186d0",
+      "content": "he argues, in the digital 21st Century post-internet world, is where all the value is. Then you can aggregate all the difficult content creation behind that… content creation but in this case, airlines like point to point travel, and own that relationship with the customer at the front end. Then you commoditize everything on the backend. That’s completely happened. Interesting, Southwest has refused to participate in the aggregators to let themselves be aggregated and probably has some of the most loyal customers. I mean, their ticker symbol is LUV and they always talk about how much",
+      "score": 0.74693435,
+      "metadata": {
+        "content": "he argues, in the digital 21st Century post-internet world, is where all the value is. Then you can aggregate all the difficult content creation behind that… content creation but in this case, airlines like point to point travel, and own that relationship with the customer at the front end. Then you commoditize everything on the backend. That’s completely happened. Interesting, Southwest has refused to participate in the aggregators to let themselves be aggregated and probably has some of the most loyal customers. I mean, their ticker symbol is LUV and they always talk about how much",
+        "post_url": "https://www.acquired.fm/episodes/episode-10-virgin-america",
+        "series_number": "Season 1, Episode 10",
+        "blog_date": "April 26, 2016",
+        "blog_title": "Related Episodes",
+        "file_name": "virgin_america",
+        "has_transcript": true,
+        "document_id": "2c13a1db-d8fe-4457-ac57-2f6f9fa65921",
+        "title": "Virgin America"
+      }
+    },
+    {
+      "chunk_id": "db00b479-7a1e-413a-b517-64fce41a4403",
+      "content": "of Uber is actually scale economies which says, the technology framework of doing the matching automatically is so hard and it acquires so much cost to build, then international expansion would have been totally irrational because you're just spreading that fixed cost over more geographies, and you're getting a head start in every single place you have. But the truth is, it's not. The majority of cost of that business actually lies in acquiring and maintaining their customers, which means if anything, the route you should really try to get to is network economies, if you have one. The scope",
+      "score": 0.7433732,
+      "metadata": {
+        "content": "of Uber is actually scale economies which says, the technology framework of doing the matching automatically is so hard and it acquires so much cost to build, then international expansion would have been totally irrational because you're just spreading that fixed cost over more geographies, and you're getting a head start in every single place you have. But the truth is, it's not. The majority of cost of that business actually lies in acquiring and maintaining their customers, which means if anything, the route you should really try to get to is network economies, if you have one. The scope",
+        "post_url": "https://www.acquired.fm/episodes/interview-hamilton-helmer-chenyi-shi-on-how-to-build-an-aws-like-second-business",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "April 3, 2023",
+        "blog_title": "Related Episodes",
+        "file_name": "interview_hamilton_helmer_chenyi_shi_on_how_to_build_an_awslike_second_business",
+        "has_transcript": true,
+        "document_id": "777fed1a-d682-48fb-8925-d4944ef98893",
+        "title": "Interview: Hamilton Helmer & Chenyi Shi on How to Build an AWS-Like Second Business"
+      }
+    },
+    {
+      "chunk_id": "2f0c281f-f8f1-406d-8a25-9c008875df7a",
+      "content": "industries to take advantage of these tools. I think this will be one of the enabling factors that further pushes Aggregation Theory out into the world beyond the traditional borders of the “tech industry” that we talked about earlier. Ben: That brings up the second point that I have is the reason that these larger companies are incentivized to make these things available is that the value, once you hit a certain kind of scale and understanding and saturation of these things, the value isn’t the algorithm themselves. The value is all about the data. So these companies with large sets of data",
+      "score": 0.7414671,
+      "metadata": {
+        "content": "industries to take advantage of these tools. I think this will be one of the enabling factors that further pushes Aggregation Theory out into the world beyond the traditional borders of the “tech industry” that we talked about earlier. Ben: That brings up the second point that I have is the reason that these larger companies are incentivized to make these things available is that the value, once you hit a certain kind of scale and understanding and saturation of these things, the value isn’t the algorithm themselves. The value is all about the data. So these companies with large sets of data",
+        "post_url": "https://www.acquired.fm/episodes/episode-29-special2016-review-and-2017-predictions",
+        "series_number": "Season 1, Episode 29",
+        "blog_date": "January 11, 2017",
+        "blog_title": "Related Episodes",
+        "file_name": "special_2016_review_and_2017_predictions",
+        "has_transcript": true,
+        "document_id": "76bd619a-f9ca-4ac1-8766-e1095ef5b508",
+        "title": "Special: 2016 Review and 2017 Predictions"
+      }
+    },
+    {
+      "chunk_id": "12698222-a104-40cd-a41c-54ba9a803378",
+      "content": "is its data and how your customers and your domain and people who could be your customers. And the interaction between those customers and what your product is. So yes, I agree that if you have multiple companies doing the same thing, the company that has the most data and the most robust and rich data is going to be able to create this most superior customer experience via Aggregation Theory which we have talked about ad nauseum. But to the extent you’re doing something slightly different, I don’t think it pivots very well. That gives me some hope for opportunities for startups. Ben: I think",
+      "score": 0.7410583,
+      "metadata": {
+        "content": "is its data and how your customers and your domain and people who could be your customers. And the interaction between those customers and what your product is. So yes, I agree that if you have multiple companies doing the same thing, the company that has the most data and the most robust and rich data is going to be able to create this most superior customer experience via Aggregation Theory which we have talked about ad nauseum. But to the extent you’re doing something slightly different, I don’t think it pivots very well. That gives me some hope for opportunities for startups. Ben: I think",
+        "post_url": "https://www.acquired.fm/episodes/episode-29-special2016-review-and-2017-predictions",
+        "series_number": "Season 1, Episode 29",
+        "blog_date": "January 11, 2017",
+        "blog_title": "Related Episodes",
+        "file_name": "special_2016_review_and_2017_predictions",
+        "has_transcript": true,
+        "document_id": "76bd619a-f9ca-4ac1-8766-e1095ef5b508",
+        "title": "Special: 2016 Review and 2017 Predictions"
+      }
+    },
+    {
+      "chunk_id": "8cee78f8-8d13-422b-b1c5-a28387a49752",
+      "content": "that would be. I think the more meaningful thing, like Uber is bringing a couple of assumptions to its battle with China that I think are interesting to examine. One, obviously I think at the time Travis is pursuing a global network but this is not really a network effects business or if it is, it’s very local. So it was sort of unclear that Uber’s strength and the rest of the world would even translate into China. The great contrast is with Airbnb where I think they do have more of a global network effect because they’ve got travelers going back and forth across oceans. The other advantage I",
+      "score": 0.7386327,
+      "metadata": {
+        "content": "that would be. I think the more meaningful thing, like Uber is bringing a couple of assumptions to its battle with China that I think are interesting to examine. One, obviously I think at the time Travis is pursuing a global network but this is not really a network effects business or if it is, it’s very local. So it was sort of unclear that Uber’s strength and the rest of the world would even translate into China. The great contrast is with Airbnb where I think they do have more of a global network effect because they’ve got travelers going back and forth across oceans. The other advantage I",
+        "post_url": "https://www.acquired.fm/episodes/episode-31-the-uber-didi-chuxing-merger-with-brad-stone-author-of-the-upstarts-the-everything-store",
+        "series_number": "Season 1, Episode 31",
+        "blog_date": "February 8, 2017",
+        "blog_title": "Related Episodes",
+        "file_name": "the_uber_didi_chuxing_merger_with_brad_stone_author_of_the_upstarts_the_everything_store",
+        "has_transcript": true,
+        "document_id": "f8a2a200-1402-40cf-a06b-5497ad3492e6",
+        "title": "The Uber - Didi Chuxing Merger with Brad Stone, author of The Upstarts & The Everything Store"
+      }
+    },
+    {
+      "chunk_id": "83745f8c-273b-4c39-9be8-918670ddf886",
+      "content": "have scale economies. Ben: That's a great point. Okay, explain to us the network economies. David: This is even better than the classic two-sided network. This is the classic five-sided network effect. Ben: Where you have an amplifier on each side, because you have the banks going and using all of their scale to amplify your own go to market motion. David: I think this is also true. With network economies and network power, the more participants in a network, the greater complexity grows, and the harder it is to actually pull off the network. There are plenty of single-sided networks.",
+      "score": 0.7382725,
+      "metadata": {
+        "content": "have scale economies. Ben: That's a great point. Okay, explain to us the network economies. David: This is even better than the classic two-sided network. This is the classic five-sided network effect. Ben: Where you have an amplifier on each side, because you have the banks going and using all of their scale to amplify your own go to market motion. David: I think this is also true. With network economies and network power, the more participants in a network, the greater complexity grows, and the harder it is to actually pull off the network. There are plenty of single-sided networks.",
+        "post_url": "https://www.acquired.fm/episodes/visa",
+        "series_number": "Season 13, Episode 4",
+        "blog_date": "November 26, 2023",
+        "blog_title": "The Complete History & Strategy of Visa",
+        "file_name": "visa",
+        "has_transcript": true,
+        "document_id": "41271a7b-8de8-489f-94a4-5059a1eb2108",
+        "title": "Visa"
+      }
+    },
+    {
+      "chunk_id": "7e6913d8-4f1e-4129-b7de-c599bcef566a",
+      "content": "to be on the demand side. You're going to have retention that plateaus on the supply side, the driver side, but there's a lot more acquisition you have to do on the driver side all the time. Travel, on the other hand, like Airbnb, is actually going to have that net revenue retention occur on the supply side because the repeat usage for staying at an Airbnb is just not very high. It's not because of Airbnb's product and losing those consumers to substitutes. It's because people don't just travel that often. You want to get as much share of wallet as possible, but you're still going to see",
+      "score": 0.7381484,
+      "metadata": {
+        "content": "to be on the demand side. You're going to have retention that plateaus on the supply side, the driver side, but there's a lot more acquisition you have to do on the driver side all the time. Travel, on the other hand, like Airbnb, is actually going to have that net revenue retention occur on the supply side because the repeat usage for staying at an Airbnb is just not very high. It's not because of Airbnb's product and losing those consumers to substitutes. It's because people don't just travel that often. You want to get as much share of wallet as possible, but you're still going to see",
+        "post_url": "https://www.acquired.fm/episodes/lp-show-preview-consumer-investing-master-class-with-sarah-tavel-general-partner-at-benchmark",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "July 6, 2020",
+        "blog_title": "Related Episodes",
+        "file_name": "vc_fundamentals_consumer_investing_master_class_with_benchmark_gp_sarah_tavel",
+        "has_transcript": true,
+        "document_id": "e74127a6-b53d-4168-ad8f-c06f7ef3a528",
+        "title": "VC Fundamentals: Consumer Investing Master Class with Benchmark GP Sarah Tavel"
+      }
+    },
+    {
+      "chunk_id": "06423097-f2a9-4224-9ffc-e754b7493176",
+      "content": "what we're saying is that a lot of the differential value a platform can generate is a result of the differential scale they have with their participants. Multihoming is what arbitrage out all of that differential value that platforms don't make profits out of their operations. The result of that is you're creating so much value, but all of that gets arbitrage and customers get it but not the owner of the platform itself. In the case of ride-sharing business particularly, the thing you really want to ask yourself is what is preventing my customers from also accessing the other platform that's",
+      "score": 0.73791665,
+      "metadata": {
+        "content": "what we're saying is that a lot of the differential value a platform can generate is a result of the differential scale they have with their participants. Multihoming is what arbitrage out all of that differential value that platforms don't make profits out of their operations. The result of that is you're creating so much value, but all of that gets arbitrage and customers get it but not the owner of the platform itself. In the case of ride-sharing business particularly, the thing you really want to ask yourself is what is preventing my customers from also accessing the other platform that's",
+        "post_url": "https://www.acquired.fm/episodes/platforms-and-power-with-hamilton-helmer-and-chenyi-shi",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "April 5, 2022",
+        "blog_title": "Related Episodes",
+        "file_name": "platforms_and_power_with_hamilton_helmer_and_chenyi_shi",
+        "has_transcript": true,
+        "document_id": "f2938c9d-5824-4c50-a59b-b89cbf929940",
+        "title": "Platforms and Power (with Hamilton Helmer and Chenyi Shi)"
+      }
+    },
+    {
+      "chunk_id": "1b7c0481-cabd-4789-a66a-4fe117653fd2",
+      "content": "similarly-sized or reasonably-sized competitor—Lyft, for example—in this market or others in other markets, that they can achieve a similar network effect. If you look at the density economics as you scale in a region, what we're saying is it's nonlinear. At some point it flattens out. If the market is large enough for more than one company to exist in that flat spot, then it doesn't help you. You have to look at all those nuances. One of the unusual things about my book is I've always tried to be very careful to make sure that everything maps back to value. If you said what is the",
+      "score": 0.73721784,
+      "metadata": {
+        "content": "similarly-sized or reasonably-sized competitor—Lyft, for example—in this market or others in other markets, that they can achieve a similar network effect. If you look at the density economics as you scale in a region, what we're saying is it's nonlinear. At some point it flattens out. If the market is large enough for more than one company to exist in that flat spot, then it doesn't help you. You have to look at all those nuances. One of the unusual things about my book is I've always tried to be very careful to make sure that everything maps back to value. If you said what is the",
+        "post_url": "https://www.acquired.fm/episodes/7-powers-with-hamilton-helmer",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "December 7, 2021",
+        "blog_title": "Related Episodes",
+        "file_name": "7_powers_with_hamilton_helmer",
+        "has_transcript": true,
+        "document_id": "b9310d8f-29c5-4a30-9b71-5e7f7f7e4ca9",
+        "title": "7 Powers with Hamilton Helmer"
+      }
+    },
+    {
+      "chunk_id": "e758c37c-dc30-4279-8dcc-1a2a93790d75",
+      "content": "some sort of benefits to scale. I wouldn't call it scale economies either where hopefully it gets better. I think this is like data network effects or something where maybe it's there. Sometimes, maybe people have it. But probably, like you said, there are network effects just to pretend they are network effects. I actually don't know if I have them. If it means that I'm able to write about more interesting companies because there are more readers, some more different types of companies want me to tell their story, and all of that, or the audience is getting bigger and I have more interesting",
+      "score": 0.7366507,
+      "metadata": {
+        "content": "some sort of benefits to scale. I wouldn't call it scale economies either where hopefully it gets better. I think this is like data network effects or something where maybe it's there. Sometimes, maybe people have it. But probably, like you said, there are network effects just to pretend they are network effects. I actually don't know if I have them. If it means that I'm able to write about more interesting companies because there are more readers, some more different types of companies want me to tell their story, and all of that, or the audience is getting bigger and I have more interesting",
+        "post_url": "https://www.acquired.fm/episodes/not-boring-with-packy-mccormick",
+        "series_number": "Season 9, Episode 6",
+        "blog_date": "December 3, 2021",
+        "blog_title": "The Complete History & Strategy of Not Boring",
+        "file_name": "not_boring_with_packy_mccormick",
+        "has_transcript": true,
+        "document_id": "9ad1599d-c659-4cfc-a6d3-af8d0bd99728",
+        "title": "Not Boring (with Packy McCormick)"
+      }
+    },
+    {
+      "chunk_id": "de57ab21-d056-44d8-acf5-e0d9d18be171",
+      "content": "every cohort spends 50% more than the year before as time goes on. Net of churn, the revenue of that cohort goes up 50%. Airbnb, in year two, drops to 30% something. Hopefully, they are able to get back up to 50%. But at least so far from the data we've seen, their cohorts do not get more valuable over time. It makes it so that you have a lot less of a cushion when you decide to deploy performance marketing dollars to grow when that's the case. My next one is about reviews. They’ve gotten very far. We've extolled the system over and over again to build this trust-based network, but they still",
+      "score": 0.73576427,
+      "metadata": {
+        "content": "every cohort spends 50% more than the year before as time goes on. Net of churn, the revenue of that cohort goes up 50%. Airbnb, in year two, drops to 30% something. Hopefully, they are able to get back up to 50%. But at least so far from the data we've seen, their cohorts do not get more valuable over time. It makes it so that you have a lot less of a cushion when you decide to deploy performance marketing dollars to grow when that's the case. My next one is about reviews. They’ve gotten very far. We've extolled the system over and over again to build this trust-based network, but they still",
+        "post_url": "https://www.acquired.fm/episodes/airbnb",
+        "series_number": "Season 7, Episode 8",
+        "blog_date": "December 10, 2020",
+        "blog_title": "‍",
+        "file_name": "airbnb",
+        "has_transcript": true,
+        "document_id": "2cba2ea8-820e-4ef6-bd01-cefd632f488c",
+        "title": "Airbnb"
+      }
+    },
+    {
+      "chunk_id": "5973b812-053a-455b-99d8-5e32dd6c9e05",
+      "content": "The last bucket we probably would see in the resilient part of our portfolio is this network effects–based competitive advantages where you see companies that really hit their inflection point. Again, especially in digital markets, you'll tend to see a handful of companies or potentially, one or two companies take most of the economics in a given market like digital advertising or smartphones. There are so many markets where there are one or two players that have 80%–95% of the profits. We tend to see those in the resilient product portfolio. David: One thing I think was really",
+      "score": 0.73555124,
+      "metadata": {
+        "content": "The last bucket we probably would see in the resilient part of our portfolio is this network effects–based competitive advantages where you see companies that really hit their inflection point. Again, especially in digital markets, you'll tend to see a handful of companies or potentially, one or two companies take most of the economics in a given market like digital advertising or smartphones. There are so many markets where there are one or two players that have 80%–95% of the profits. We tend to see those in the resilient product portfolio. David: One thing I think was really",
+        "post_url": "https://www.acquired.fm/episodes/complexity-investing-semiconductors-with-nzs-capital",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "November 2, 2021",
+        "blog_title": "Related Episodes",
+        "file_name": "complexity_investing_semiconductors_with_nzs_capital",
+        "has_transcript": true,
+        "document_id": "445b9dc2-84bc-4b3c-8d62-57340d106cff",
+        "title": "Complexity Investing & Semiconductors (with NZS Capital)"
+      }
+    },
+    {
+      "chunk_id": "cb81ca9b-0156-46f3-8f2f-89eef4857638",
+      "content": "the Internet does in industry after industry, I think this applies to creative talent as much as anything else, is there's always a barbell effect. You're either very large or very small. If you're very large, you get scale, you get aggregation effects, and then you can make massive investments or acquisitions. You can immediately feed that to hundreds of millions or billions of people and get a payoff. Or you take advantage of the Internet and open source software, whatever it might be, or different platforms, and your cost structures are basically zero, and you only need a thousand true",
+      "score": 0.735466,
+      "metadata": {
+        "content": "the Internet does in industry after industry, I think this applies to creative talent as much as anything else, is there's always a barbell effect. You're either very large or very small. If you're very large, you get scale, you get aggregation effects, and then you can make massive investments or acquisitions. You can immediately feed that to hundreds of millions or billions of people and get a payoff. Or you take advantage of the Internet and open source software, whatever it might be, or different platforms, and your cost structures are basically zero, and you only need a thousand true",
+        "post_url": "https://www.acquired.fm/episodes/stratechery-with-ben-thompson",
+        "series_number": "Season 11, Episode 8",
+        "blog_date": "December 5, 2022",
+        "blog_title": "The Complete History & Strategy of Stratechery",
+        "file_name": "stratechery_with_ben_thompson",
+        "has_transcript": true,
+        "document_id": "47be68cb-692f-43a2-b9a2-c84283afe56c",
+        "title": "Stratechery (with Ben Thompson)"
+      }
+    },
+    {
+      "chunk_id": "a229f175-9bba-48fb-8e61-40fadb523c84",
+      "content": "increasing brand affinity. Three of the seven got to imagine that Hamilton, so much of his work has influenced so many people here and Silicon Valley, has also influenced them. That's what they think, network effects, economies of scale, scale economies, and brand, and we could talk about how they think about them. To me, the biggest one right now is economies of scale. Ben: Hundred percent. I think it's actually the only legitimate one, because I think it's pretty easy. For any participant in the ecosystem, it's very easy to multihome and it's very easy to choose the next best competitor.",
+      "score": 0.73541546,
+      "metadata": {
+        "content": "increasing brand affinity. Three of the seven got to imagine that Hamilton, so much of his work has influenced so many people here and Silicon Valley, has also influenced them. That's what they think, network effects, economies of scale, scale economies, and brand, and we could talk about how they think about them. To me, the biggest one right now is economies of scale. Ben: Hundred percent. I think it's actually the only legitimate one, because I think it's pretty easy. For any participant in the ecosystem, it's very easy to multihome and it's very easy to choose the next best competitor.",
+        "post_url": "https://www.acquired.fm/episodes/doordash",
+        "series_number": "Season 7, Episode 7",
+        "blog_date": "December 9, 2020",
+        "blog_title": "Related Episodes",
+        "file_name": "doordash",
+        "has_transcript": true,
+        "document_id": "417d7924-2d99-40f8-b261-1cf92b8e6eda",
+        "title": "DoorDash"
+      }
+    },
+    {
+      "chunk_id": "481b05b6-7e80-49bb-92e5-2949c75187f7",
+      "content": "it's always hard to actually know how much to sort of chalk up to brand. One thing is really true and rings really, really true to me, which is that the whole end game is aggregating the consumer attention. This is the Ben Thompson Aggregation Theory concept applied to food, where if you're the way that people think to order food, like you're the destination site, they're the front door to someone's purchase, you're going to get superior economics on that transaction. As you think about the... David: Especially if you start introducing an advertising business model into this too. Ben:",
+      "score": 0.73473424,
+      "metadata": {
+        "content": "it's always hard to actually know how much to sort of chalk up to brand. One thing is really true and rings really, really true to me, which is that the whole end game is aggregating the consumer attention. This is the Ben Thompson Aggregation Theory concept applied to food, where if you're the way that people think to order food, like you're the destination site, they're the front door to someone's purchase, you're going to get superior economics on that transaction. As you think about the... David: Especially if you start introducing an advertising business model into this too. Ben:",
+        "post_url": "https://www.acquired.fm/episodes/doordash",
+        "series_number": "Season 7, Episode 7",
+        "blog_date": "December 9, 2020",
+        "blog_title": "Related Episodes",
+        "file_name": "doordash",
+        "has_transcript": true,
+        "document_id": "417d7924-2d99-40f8-b261-1cf92b8e6eda",
+        "title": "DoorDash"
+      }
+    },
+    {
+      "chunk_id": "765780f1-f4bd-4056-95c6-c510bbded623",
+      "content": "about you. If it’s 10 or 20 times a better product, everybody’s going to talk about you and will migrate to you. There are other ways by having a completely different strategy if everybody thinks this is the future, and maybe someone else’s buck. Not everybody is the same. You’re not going to capture 100% of the market in something as big as travel. It’s the ability to differentiate yourself from a current trend (sometimes) that makes you successful. In both Airbnb’s and DoorDash’s cases, that is exactly what happened. David: I’m super curious and I’m sure everybody listening is too right",
+      "score": 0.7346109,
+      "metadata": {
+        "content": "about you. If it’s 10 or 20 times a better product, everybody’s going to talk about you and will migrate to you. There are other ways by having a completely different strategy if everybody thinks this is the future, and maybe someone else’s buck. Not everybody is the same. You’re not going to capture 100% of the market in something as big as travel. It’s the ability to differentiate yourself from a current trend (sometimes) that makes you successful. In both Airbnb’s and DoorDash’s cases, that is exactly what happened. David: I’m super curious and I’m sure everybody listening is too right",
+        "post_url": "https://www.acquired.fm/episodes/special-sequoia-capitals-investment-playbook-with-alfred-lin",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "January 31, 2021",
+        "blog_title": "How Sequoia Capital Invests",
+        "file_name": "special_sequoia_capitals_investment_playbook_with_alfred_lin",
+        "has_transcript": true,
+        "document_id": "314b4fb6-f6dc-4cd4-a0d2-5a9f37147018",
+        "title": "Special: Sequoia Capital's Investment Playbook (with Alfred Lin)"
+      }
+    },
+    {
+      "chunk_id": "119bc2e0-c3c0-4879-bb76-1df5aaa63bc7",
+      "content": "Thompson: Aggregation Theory is the obvious one. I think the time to have written that book would probably be 2017. I was writing about the ideas of Aggregation Theory from the very beginning. It's hard to imagine but back in 2013, again, back then, people thought Apple was doomed. People thought the Internet was inherently decentralizing. David: It was not long after the Facebook IPO and there was a disaster. Ben Thompson: Yeah, and Facebook was doomed, and then Microsoft is the other thing. I was able to come out of the gate with really four takes that provided tons of content. (1) Apple's",
+      "score": 0.7337252,
+      "metadata": {
+        "content": "Thompson: Aggregation Theory is the obvious one. I think the time to have written that book would probably be 2017. I was writing about the ideas of Aggregation Theory from the very beginning. It's hard to imagine but back in 2013, again, back then, people thought Apple was doomed. People thought the Internet was inherently decentralizing. David: It was not long after the Facebook IPO and there was a disaster. Ben Thompson: Yeah, and Facebook was doomed, and then Microsoft is the other thing. I was able to come out of the gate with really four takes that provided tons of content. (1) Apple's",
+        "post_url": "https://www.acquired.fm/episodes/stratechery-with-ben-thompson",
+        "series_number": "Season 11, Episode 8",
+        "blog_date": "December 5, 2022",
+        "blog_title": "The Complete History & Strategy of Stratechery",
+        "file_name": "stratechery_with_ben_thompson",
+        "has_transcript": true,
+        "document_id": "47be68cb-692f-43a2-b9a2-c84283afe56c",
+        "title": "Stratechery (with Ben Thompson)"
+      }
+    },
+    {
+      "chunk_id": "5a08d618-1600-4d5b-9f4c-0339abc1a1de",
+      "content": "more in better 10X, 100X developers you have developing for your platform, the more likely you are to attract more users? Ben: It's a good question. I think the scale economies when you define it, is that you can make a fixed cost investment that is more valuable to you than it is your competitors because you can spread that cost across more customers that can pay it back in a bigger way. Because you have more customers to spread it across, that fixed cost investment is more valuable to you, Nintendo, than it would be to your nearest competitor. The fact that Netflix can pay more for content",
+      "score": 0.7335476,
+      "metadata": {
+        "content": "more in better 10X, 100X developers you have developing for your platform, the more likely you are to attract more users? Ben: It's a good question. I think the scale economies when you define it, is that you can make a fixed cost investment that is more valuable to you than it is your competitors because you can spread that cost across more customers that can pay it back in a bigger way. Because you have more customers to spread it across, that fixed cost investment is more valuable to you, Nintendo, than it would be to your nearest competitor. The fact that Netflix can pay more for content",
+        "post_url": "https://www.acquired.fm/episodes/nintendo",
+        "series_number": "Season 12, Episode 3",
+        "blog_date": "March 15, 2023",
+        "blog_title": "The Complete History & Strategy of Nintendo",
+        "file_name": "nintendos_origins",
+        "has_transcript": true,
+        "document_id": "20d59f17-7d93-4f3c-a5b5-c78cad383f1a",
+        "title": "Nintendo's Origins"
+      }
+    }
+  ],
+  "reranked_result": [
+    {
+      "chunk_id": "c78063f8-c6bf-49ad-b5c3-acd53eff1f1d",
+      "content": "the power that allows them to generate persistent profit margins, overall those future years are the way that you would calculate the market cap. If you're someone who's excited about Airbnb as a $100 billion market cap company today, to what power do you attribute that? Why do you believe that they are able to do that? David, with that preamble aside, I’m curious, what types of power do you think show up in Airbnb? David: The totally obvious one—just like scale economies were the totally obvious one for DoorDash—for Airbnb is network economies. This is a two-sided network effect. It is",
+      "score": 0.7612497,
+      "metadata": {
+        "content": "the power that allows them to generate persistent profit margins, overall those future years are the way that you would calculate the market cap. If you're someone who's excited about Airbnb as a $100 billion market cap company today, to what power do you attribute that? Why do you believe that they are able to do that? David, with that preamble aside, I’m curious, what types of power do you think show up in Airbnb? David: The totally obvious one—just like scale economies were the totally obvious one for DoorDash—for Airbnb is network economies. This is a two-sided network effect. It is",
+        "post_url": "https://www.acquired.fm/episodes/airbnb",
+        "series_number": "Season 7, Episode 8",
+        "blog_date": "December 10, 2020",
+        "blog_title": "‍",
+        "file_name": "airbnb",
+        "has_transcript": true,
+        "document_id": "2cba2ea8-820e-4ef6-bd01-cefd632f488c",
+        "title": "Airbnb"
+      },
+      "rerank_score": 9.62246036529541,
+      "rerank_rank": 1
+    },
+    {
+      "chunk_id": "8bcb734e-864a-40bb-9c28-7d028a1f9603",
+      "content": "obvious one for DoorDash—for Airbnb is network economies. This is a two-sided network effect. It is global in nature. It is as powerful as I have ever seen in a business. I think, generally, you think about network effects, single-node network effects like a social network like an Instagram or Facebook—those tend to be the most powerful. Dual-sided network effects where you've got one class and another class, buyers and sellers, hosts and guests like you would have in eBay Amazon, or here in Airbnb, tended to just generally be a little weaker because you're bifurcating the types of",
+      "score": 0.75869316,
+      "metadata": {
+        "content": "obvious one for DoorDash—for Airbnb is network economies. This is a two-sided network effect. It is global in nature. It is as powerful as I have ever seen in a business. I think, generally, you think about network effects, single-node network effects like a social network like an Instagram or Facebook—those tend to be the most powerful. Dual-sided network effects where you've got one class and another class, buyers and sellers, hosts and guests like you would have in eBay Amazon, or here in Airbnb, tended to just generally be a little weaker because you're bifurcating the types of",
+        "post_url": "https://www.acquired.fm/episodes/airbnb",
+        "series_number": "Season 7, Episode 8",
+        "blog_date": "December 10, 2020",
+        "blog_title": "‍",
+        "file_name": "airbnb",
+        "has_transcript": true,
+        "document_id": "2cba2ea8-820e-4ef6-bd01-cefd632f488c",
+        "title": "Airbnb"
+      },
+      "rerank_score": 9.126134872436523,
+      "rerank_rank": 2
+    },
+    {
+      "chunk_id": "e848e701-8aad-42de-9017-ac9d07dc43a0",
+      "content": "well, but still relatively supply constrained from some big ones—the natural tendency is for you to think, this is much better because all of a sudden, you have this much wider scope of different creators that matters. It's great. David: And aggregate a fragmented market. Daniel: Yeah, you can do the aggregation theory. That's all good and great. What we don't really contemplate all that much is obviously there are other challenges for that business model. Moderation all of a sudden becomes a massive thing. You have to build an actual ad network that probably then scales. In theory, yes,",
+      "score": 0.7765968,
+      "metadata": {
+        "content": "well, but still relatively supply constrained from some big ones—the natural tendency is for you to think, this is much better because all of a sudden, you have this much wider scope of different creators that matters. It's great. David: And aggregate a fragmented market. Daniel: Yeah, you can do the aggregation theory. That's all good and great. What we don't really contemplate all that much is obviously there are other challenges for that business model. Moderation all of a sudden becomes a massive thing. You have to build an actual ad network that probably then scales. In theory, yes,",
+        "post_url": "https://www.acquired.fm/episodes/spotify-ceo-daniel-ek",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "May 17, 2023",
+        "blog_title": "Related Episodes",
+        "file_name": "spotify_ceo_daniel_ek",
+        "has_transcript": true,
+        "document_id": "f5122d5d-50a4-4797-a360-7f5eee38640b",
+        "title": "Spotify CEO Daniel Ek"
+      },
+      "rerank_score": 8.699984550476074,
+      "rerank_rank": 3
+    },
+    {
+      "chunk_id": "01088351-1d23-47ef-b40b-407a6067b795",
+      "content": "also the amount of required connectivity between all these different entities is kind of a high technical bar to get started and I think that these businesses, kind of aggregation theory in play here, are scale businesses so that in order to provide a lot of people have new ideas for how to make the travel booking experience better and the trip planning experience better, and I think it’s almost become a trope that like if you go to a startup weekend, you’re going to see somebody pitching a better way to plan trips and do something in that space, but it seems like it’s just really hard to",
+      "score": 0.74766886,
+      "metadata": {
+        "content": "also the amount of required connectivity between all these different entities is kind of a high technical bar to get started and I think that these businesses, kind of aggregation theory in play here, are scale businesses so that in order to provide a lot of people have new ideas for how to make the travel booking experience better and the trip planning experience better, and I think it’s almost become a trope that like if you go to a startup weekend, you’re going to see somebody pitching a better way to plan trips and do something in that space, but it seems like it’s just really hard to",
+        "post_url": "https://www.acquired.fm/episodes/episode-41-bookingcom-with-jetsetter-room-77-ceo-drew-patterson",
+        "series_number": "Season 1, Episode 41",
+        "blog_date": "July 25, 2017",
+        "blog_title": "Related Episodes",
+        "file_name": "bookingcom_with_jetsetter_room_77_ceo_drew_patterson",
+        "has_transcript": true,
+        "document_id": "02364c06-58f7-48db-b3ba-cfab405f5917",
+        "title": "Booking.com with Jetsetter & Room 77 CEO Drew Patterson"
+      },
+      "rerank_score": 8.48254680633545,
+      "rerank_rank": 4
+    },
+    {
+      "chunk_id": "5d7808cd-d9b4-48e9-b60c-0817278f8f0d",
+      "content": "that the online distributors have created competitive advantage against their packaged goods rivals and how they built very similar businesses to a lot of the businesses that we've seen emerge and disrupt incumbent industries across the internet space. Uber and the taxi industry or Airbnb and the hotel industry, where you aggregate demand on an online platform, and then you utilize that demand to leverage the supply side of whatever industry that you're entering. I think if you look at Steam, Steam shares many of those attributes. I think that move was essentially perfected by Tencent, with",
+      "score": 0.7539079,
+      "metadata": {
+        "content": "that the online distributors have created competitive advantage against their packaged goods rivals and how they built very similar businesses to a lot of the businesses that we've seen emerge and disrupt incumbent industries across the internet space. Uber and the taxi industry or Airbnb and the hotel industry, where you aggregate demand on an online platform, and then you utilize that demand to leverage the supply side of whatever industry that you're entering. I think if you look at Steam, Steam shares many of those attributes. I think that move was essentially perfected by Tencent, with",
+        "post_url": "https://www.acquired.fm/episodes/benchmarks-mitch-lasky-and-blake-robbins-on-the-art-of-business-in-gaming",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "April 25, 2023",
+        "blog_title": "Related Episodes",
+        "file_name": "benchmarks_mitch_lasky_and_blake_robbins_on_the_art_of_business_in_gaming",
+        "has_transcript": true,
+        "document_id": "38cd187c-a224-451c-b4f7-911a963be933",
+        "title": "Benchmark’s Mitch Lasky and Blake Robbins on The Art of Business in Gaming"
+      },
+      "rerank_score": 8.316635131835938,
+      "rerank_rank": 5
+    },
+    {
+      "chunk_id": "d4f00b47-3acd-4dd4-bc21-3485f1f0764f",
+      "content": "the ecosystem, it's very easy to multihome and it's very easy to choose the next best competitor. It's easy to order food, it's easy to deliver food, and it's easy to, as a restaurant, also list on UberEats, no problem at all. I think any defensibility that comes from a network effect is not really real. David: Yeah, I was going to say that it's related to order times and density, but that's scale economies. So, yeah, I think scale economies are the big one. Ben: There's something to brand, but it's always hard to actually know how much to sort of chalk up to brand. One thing is really true",
+      "score": 0.7648511,
+      "metadata": {
+        "content": "the ecosystem, it's very easy to multihome and it's very easy to choose the next best competitor. It's easy to order food, it's easy to deliver food, and it's easy to, as a restaurant, also list on UberEats, no problem at all. I think any defensibility that comes from a network effect is not really real. David: Yeah, I was going to say that it's related to order times and density, but that's scale economies. So, yeah, I think scale economies are the big one. Ben: There's something to brand, but it's always hard to actually know how much to sort of chalk up to brand. One thing is really true",
+        "post_url": "https://www.acquired.fm/episodes/doordash",
+        "series_number": "Season 7, Episode 7",
+        "blog_date": "December 9, 2020",
+        "blog_title": "Related Episodes",
+        "file_name": "doordash",
+        "has_transcript": true,
+        "document_id": "417d7924-2d99-40f8-b261-1cf92b8e6eda",
+        "title": "DoorDash"
+      },
+      "rerank_score": 8.158679008483887,
+      "rerank_rank": 6
+    },
+    {
+      "chunk_id": "83745f8c-273b-4c39-9be8-918670ddf886",
+      "content": "have scale economies. Ben: That's a great point. Okay, explain to us the network economies. David: This is even better than the classic two-sided network. This is the classic five-sided network effect. Ben: Where you have an amplifier on each side, because you have the banks going and using all of their scale to amplify your own go to market motion. David: I think this is also true. With network economies and network power, the more participants in a network, the greater complexity grows, and the harder it is to actually pull off the network. There are plenty of single-sided networks.",
+      "score": 0.7382725,
+      "metadata": {
+        "content": "have scale economies. Ben: That's a great point. Okay, explain to us the network economies. David: This is even better than the classic two-sided network. This is the classic five-sided network effect. Ben: Where you have an amplifier on each side, because you have the banks going and using all of their scale to amplify your own go to market motion. David: I think this is also true. With network economies and network power, the more participants in a network, the greater complexity grows, and the harder it is to actually pull off the network. There are plenty of single-sided networks.",
+        "post_url": "https://www.acquired.fm/episodes/visa",
+        "series_number": "Season 13, Episode 4",
+        "blog_date": "November 26, 2023",
+        "blog_title": "The Complete History & Strategy of Visa",
+        "file_name": "visa",
+        "has_transcript": true,
+        "document_id": "41271a7b-8de8-489f-94a4-5059a1eb2108",
+        "title": "Visa"
+      },
+      "rerank_score": 8.059123039245605,
+      "rerank_rank": 7
+    },
+    {
+      "chunk_id": "9c30428b-b07e-4cc1-b72c-b2891513d078",
+      "content": "It's not that strong of a network effect because you don't need to interface with lots and lots of nodes in the system. Whereas with Airbnb, I don't care who owns the place that I'm staying at. I just want the most choice with the most interesting options such that there is sufficient density where I want to go in the price tier that I want when I get there. That is a truly amazing network effect where—exactly to your point—every node that's out of the system has meaningful additional value rather than this concentration where my friends around me provide value, but everyone else that’s on",
+      "score": 0.765971,
+      "metadata": {
+        "content": "It's not that strong of a network effect because you don't need to interface with lots and lots of nodes in the system. Whereas with Airbnb, I don't care who owns the place that I'm staying at. I just want the most choice with the most interesting options such that there is sufficient density where I want to go in the price tier that I want when I get there. That is a truly amazing network effect where—exactly to your point—every node that's out of the system has meaningful additional value rather than this concentration where my friends around me provide value, but everyone else that’s on",
+        "post_url": "https://www.acquired.fm/episodes/airbnb",
+        "series_number": "Season 7, Episode 8",
+        "blog_date": "December 10, 2020",
+        "blog_title": "‍",
+        "file_name": "airbnb",
+        "has_transcript": true,
+        "document_id": "2cba2ea8-820e-4ef6-bd01-cefd632f488c",
+        "title": "Airbnb"
+      },
+      "rerank_score": 7.943389892578125,
+      "rerank_rank": 8
+    },
+    {
+      "chunk_id": "e758c37c-dc30-4279-8dcc-1a2a93790d75",
+      "content": "some sort of benefits to scale. I wouldn't call it scale economies either where hopefully it gets better. I think this is like data network effects or something where maybe it's there. Sometimes, maybe people have it. But probably, like you said, there are network effects just to pretend they are network effects. I actually don't know if I have them. If it means that I'm able to write about more interesting companies because there are more readers, some more different types of companies want me to tell their story, and all of that, or the audience is getting bigger and I have more interesting",
+      "score": 0.7366507,
+      "metadata": {
+        "content": "some sort of benefits to scale. I wouldn't call it scale economies either where hopefully it gets better. I think this is like data network effects or something where maybe it's there. Sometimes, maybe people have it. But probably, like you said, there are network effects just to pretend they are network effects. I actually don't know if I have them. If it means that I'm able to write about more interesting companies because there are more readers, some more different types of companies want me to tell their story, and all of that, or the audience is getting bigger and I have more interesting",
+        "post_url": "https://www.acquired.fm/episodes/not-boring-with-packy-mccormick",
+        "series_number": "Season 9, Episode 6",
+        "blog_date": "December 3, 2021",
+        "blog_title": "The Complete History & Strategy of Not Boring",
+        "file_name": "not_boring_with_packy_mccormick",
+        "has_transcript": true,
+        "document_id": "9ad1599d-c659-4cfc-a6d3-af8d0bd99728",
+        "title": "Not Boring (with Packy McCormick)"
+      },
+      "rerank_score": 7.778137683868408,
+      "rerank_rank": 9
+    },
+    {
+      "chunk_id": "db00b479-7a1e-413a-b517-64fce41a4403",
+      "content": "of Uber is actually scale economies which says, the technology framework of doing the matching automatically is so hard and it acquires so much cost to build, then international expansion would have been totally irrational because you're just spreading that fixed cost over more geographies, and you're getting a head start in every single place you have. But the truth is, it's not. The majority of cost of that business actually lies in acquiring and maintaining their customers, which means if anything, the route you should really try to get to is network economies, if you have one. The scope",
+      "score": 0.7433732,
+      "metadata": {
+        "content": "of Uber is actually scale economies which says, the technology framework of doing the matching automatically is so hard and it acquires so much cost to build, then international expansion would have been totally irrational because you're just spreading that fixed cost over more geographies, and you're getting a head start in every single place you have. But the truth is, it's not. The majority of cost of that business actually lies in acquiring and maintaining their customers, which means if anything, the route you should really try to get to is network economies, if you have one. The scope",
+        "post_url": "https://www.acquired.fm/episodes/interview-hamilton-helmer-chenyi-shi-on-how-to-build-an-aws-like-second-business",
+        "series_number": "ACQ2 Episode",
+        "blog_date": "April 3, 2023",
+        "blog_title": "Related Episodes",
+        "file_name": "interview_hamilton_helmer_chenyi_shi_on_how_to_build_an_awslike_second_business",
+        "has_transcript": true,
+        "document_id": "777fed1a-d682-48fb-8925-d4944ef98893",
+        "title": "Interview: Hamilton Helmer & Chenyi Shi on How to Build an AWS-Like Second Business"
+      },
+      "rerank_score": 7.767922401428223,
+      "rerank_rank": 10
+    }
+  ],
+  "response_result": {
+    "answer": "The provided documents do not contain information explaining why market fragmentation works for the airline industry or why it could not work for Airbnb.",
+    "citations": []
+  },
+  "metadata": {
+    "starting_time": "2026-10-27T00:54:04.074966",
+    "query_preprocessing_latency": 4.930831199977547,
+    "retrieval_latency": 1.3317928001051769,
+    "reranking_latency": 1.0898085999069735,
+    "generation_latency": 2.0305330000119284,
+    "total_execution_time": 4.452134400024079,
+    "completion_time": "2026-10-27T00:54:13.457925"
+  }
+}

@@ -1,6 +1,7 @@
 from ....model.user_query import UserQuery
 from ....model.query_context import QueryContext
 from .rewriter import QueryRewriter
+from langchain_core.output_parsers import StrOutputParser
 # from backend.src.rag.pipelines.querypipeline.rewriter.rewriter import QueryRewriter
 
 class LLMQueryRewriter(QueryRewriter):
@@ -21,9 +22,20 @@ class LLMQueryRewriter(QueryRewriter):
                 - Return only the rewritten query.
 
                 """
-        response=self.llm.invoke(prompt)
-        processed_query=QueryContext(
-                    user_query=query.query,
-                    processed_query=response.content )
+        chain = self.llm | StrOutputParser()
+        
+        # Invoke the chain instead of just the LLM
+        response_text = chain.invoke(prompt)
+        
+        processed_query = QueryContext(
+            user_query=query.query,
+            processed_query=response_text 
+        )
         
         return processed_query
+        # response=self.llm.invoke(prompt)
+        # processed_query=QueryContext(
+        #             user_query=query.query,
+        #             processed_query=response.content )
+        
+        # return processed_query
